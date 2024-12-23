@@ -1,0 +1,17 @@
+{
+    "correctAnswers":{
+        "item1": "the rizzler",
+        "item2": "hello"
+    },
+
+    "answers": {
+      "item1": ["the rizzler", "skibidi sigma", "ohio baby gronk", "freakbob"],
+      "item2": ["hello", "bye", "sigma", "rizz"]
+    },
+
+    "questions":{
+        "item1": "What is the name of the rizzler?",
+        "item2": "How do you greet someone?"
+    }
+
+  }
