@@ -1,0 +1,329 @@
+{
+    "correctAnswers": {
+      "item1": "x^2 + 2x + 1",
+      "item2": "degree",
+      "item3": "zero",
+      "item4": "horizontal asymptote",
+      "item5": "long division",
+      "item6": "factor",
+      "item7": "synthetic division",
+      "item8": "even degree",
+      "item9": "y = 0",
+      "item10": "multiplicity",
+      "item11": "rational function",
+      "item12": "x-intercept",
+      "item13": "end behavior",
+      "item14": "vertical asymptote",
+      "item15": "domain",
+      "item16": "holes",
+      "item17": "leading coefficient",
+      "item18": "quadratic formula",
+      "item19": "descartes' rule",
+      "item20": "rational zeros theorem",
+      "item21": "complex roots",
+      "item22": "removable discontinuity",
+      "item23": "polynomial division",
+      "item24": "factor theorem",
+      "item25": "degree of a polynomial",
+      "item26": "quotient",
+      "item27": "horizontal asymptote rule",
+      "item28": "oblique asymptote",
+      "item29": "local maxima",
+      "item30": "multiplicity of roots",
+      "item31": "n-th degree polynomial",
+      "item32": "x^3",
+      "item33": "synthetic substitution",
+      "item34": "algebraic division",
+      "item35": "slant asymptote",
+      "item36": "graph of rational function",
+      "item37": "leading term",
+      "item38": "common denominator",
+      "item39": "remainder theorem",
+      "item40": "real root"
+    },
+    "answers": {
+      "item1": [
+        "x^2 + x + 1",
+        "x^2 - 2x + 1",
+        "x^2 - x + 1",
+        "x^2 + 2x + 1"
+      ],
+      "item2": [
+        "constant term",
+        "coefficient",
+        "leading term",
+        "degree"
+      ],
+      "item3": [
+        "solution",
+        "zero",
+        "root",
+        "factor"
+      ],
+      "item4": [
+        "y = 1",
+        "y = 0",
+        "y = x",
+        "y = x^2"
+      ],
+      "item5": [
+        "factorization",
+        "synthetic division",
+        "substitution",
+        "long division"
+      ],
+      "item6": [
+        "factor",
+        "simplify",
+        "solve",
+        "expand"
+      ],
+      "item7": [
+        "long division",
+        "synthetic division",
+        "remainder theorem",
+        "algebraic division"
+      ],
+      "item8": [
+        "linear",
+        "quadratic",
+        "even degree",
+        "odd degree"
+      ],
+      "item9": [
+        "y = 0",
+        "y = 1",
+        "y = x^2",
+        "y = x"
+      ],
+      "item10": [
+        "root",
+        "coefficient",
+        "multiplicity",
+        "degree"
+      ],
+      "item11": [
+        "polynomial function",
+        "rational function",
+        "trigonometric function",
+        "exponential function"
+      ],
+      "item12": [
+        "x-intercept",
+        "vertical asymptote",
+        "horizontal asymptote",
+        "y-intercept"
+      ],
+      "item13": [
+        "factor behavior",
+        "root behavior",
+        "degree behavior",
+        "end behavior"
+      ],
+      "item14": [
+        "horizontal asymptote",
+        "vertical asymptote",
+        "removable discontinuity",
+        "oblique asymptote"
+      ],
+      "item15": [
+        "function",
+        "domain",
+        "range",
+        "asymptote"
+      ],
+      "item16": [
+        "asymptotes",
+        "factors",
+        "intercepts",
+        "holes"
+      ],
+      "item17": [
+        "constant term",
+        "leading coefficient",
+        "root",
+        "degree"
+      ],
+      "item18": [
+        "synthetic division",
+        "quadratic formula",
+        "factor theorem",
+        "long division"
+      ],
+      "item19": [
+        "rational zeros theorem",
+        "factor theorem",
+        "descartes' rule",
+        "synthetic substitution"
+      ],
+      "item20": [
+        "rational zeros theorem",
+        "descartes' rule",
+        "synthetic substitution",
+        "factor theorem"
+      ],
+      "item21": [
+        "complex roots",
+        "irrational roots",
+        "rational roots",
+        "real roots"
+      ],
+      "item22": [
+        "vertical asymptote",
+        "infinite discontinuity",
+        "removable discontinuity",
+        "horizontal asymptote"
+      ],
+      "item23": [
+        "long division",
+        "factor theorem",
+        "synthetic division",
+        "polynomial division"
+      ],
+      "item24": [
+        "rational zeros theorem",
+        "synthetic substitution",
+        "factor theorem",
+        "descartes' rule"
+      ],
+      "item25": [
+        "degree of a polynomial",
+        "leading coefficient",
+        "coefficient",
+        "root"
+      ],
+      "item26": [
+        "quotient",
+        "remainder",
+        "root",
+        "factor"
+      ],
+      "item27": [
+        "long division rule",
+        "horizontal asymptote rule",
+        "quotient rule",
+        "vertical asymptote rule"
+      ],
+      "item28": [
+        "oblique asymptote",
+        "vertical asymptote",
+        "horizontal asymptote",
+        "removable discontinuity"
+      ],
+      "item29": [
+        "roots",
+        "local minima",
+        "local maxima",
+        "intercepts"
+      ],
+      "item30": [
+        "multiplicity of roots",
+        "leading coefficient",
+        "degree of a polynomial",
+        "coefficient of x"
+      ],
+      "item31": [
+        "n-th degree polynomial",
+        "quadratic polynomial",
+        "linear polynomial",
+        "cubic polynomial"
+      ],
+      "item32": [
+        "x^2",
+        "x^3",
+        "x^4",
+        "x"
+      ],
+      "item33": [
+        "long division",
+        "synthetic substitution",
+        "factor theorem",
+        "synthetic division"
+      ],
+      "item34": [
+        "factorization",
+        "synthetic division",
+        "long division",
+        "algebraic division"
+      ],
+      "item35": [
+        "removable discontinuity",
+        "slant asymptote",
+        "horizontal asymptote",
+        "vertical asymptote"
+      ],
+      "item36": [
+        "graph of polynomial function",
+        "graph of quadratic function",
+        "graph of rational function",
+        "graph of exponential function"
+      ],
+      "item37": [
+        "leading coefficient",
+        "constant term",
+        "root",
+        "degree"
+      ],
+      "item38": [
+        "common factor",
+        "leading coefficient",
+        "common denominator",
+        "greatest common divisor"
+      ],
+      "item39": [
+        "factor theorem",
+        "synthetic division",
+        "remainder theorem",
+        "rational zeros theorem"
+      ],
+      "item40": [
+        "real root",
+        "rational root",
+        "complex root",
+        "irrational root"
+      ]
+    },
+    "questions": {
+      "item1": "What is the expanded form of (x + 1)^2?",
+      "item2": "What is the term for the highest power of x in a polynomial?",
+      "item3": "What is another term for the solutions of a polynomial equation?",
+      "item4": "What is the horizontal asymptote of a rational function with a degree 2 numerator and degree 2 denominator?",
+      "item5": "Which method is used to divide polynomials?",
+      "item6": "What operation is used to break down a polynomial into simpler factors?",
+      "item7": "What division method is used for polynomials with specific coefficients?",
+      "item8": "What is the term for a polynomial with an even degree?",
+      "item9": "What is the y-value of the horizontal asymptote of a rational function with equal degree numerator and denominator?",
+      "item10": "What is the term for the number of times a root appears in a polynomial?",
+      "item11": "What type of function involves a ratio of two polynomials?",
+      "item12": "What is the point where a graph intersects the x-axis?",
+      "item13": "What describes the behavior of a graph as x approaches infinity or negative infinity?",
+      "item14": "What is the vertical asymptote of a rational function?",
+      "item15": "What is the set of all possible x-values for a function?",
+      "item16": "What is the term for a hole in the graph of a rational function?",
+      "item17": "What is the coefficient of the highest degree term in a polynomial?",
+      "item18": "What formula is used to find the roots of a quadratic equation?",
+      "item19": "What rule helps determine the number of positive and negative real roots?",
+      "item20": "What theorem helps find potential rational roots of a polynomial?",
+      "item21": "What type of roots cannot be expressed as a simple fraction?",
+      "item22": "What type of discontinuity occurs when a factor cancels in a rational function?",
+      "item23": "What is the division process called when dividing polynomials?",
+      "item24": "What theorem is used to find factors of polynomials based on possible roots?",
+      "item25": "What term refers to the highest degree of a polynomial?",
+      "item26": "What do you call the result of dividing two polynomials?",
+      "item27": "What rule helps determine the behavior of a rational function for large values of x?",
+      "item28": "What type of asymptote occurs when the degree of the numerator is one greater than the degree of the denominator?",
+      "item29": "What is the term for the highest point of a polynomial function within a certain range?",
+      "item30": "What is the term for the number of times a root is repeated in a polynomial?",
+      "item31": "What is the term for a polynomial of degree n?",
+      "item32": "What is the cubic term in the polynomial x^3?",
+      "item33": "What method is used to simplify expressions by evaluating a polynomial at a specific value?",
+      "item34": "What division method is used for polynomials with algebraic expressions?",
+      "item35": "What is the term for an asymptote when the degree of the numerator is greater than the denominator by one?",
+      "item36": "What is the type of graph formed by rational functions?",
+      "item37": "What is the term for the first term in a polynomial?",
+      "item38": "What do you call the denominator in rational expressions?",
+      "item39": "What theorem explains the remainder when dividing a polynomial by a linear factor?",
+      "item40": "What is the term for a root that is not complex or irrational?"
+    }
+  }
+  
