@@ -1,0 +1,648 @@
+{
+    "correctAnswers": {
+      "item1": "exponent",
+      "item2": "logarithm",
+      "item3": "base",
+      "item4": "inverse",
+      "item5": "growth",
+      "item6": "decay",
+      "item7": "natural logarithm",
+      "item8": "logarithmic scale",
+      "item9": "exponential equation",
+      "item10": "logarithmic equation",
+      "item11": "domain",
+      "item12": "range",
+      "item13": "e",
+      "item14": "logarithmic function",
+      "item15": "power rule",
+      "item16": "change of base formula",
+      "item17": "logarithmic property",
+      "item18": "horizontal asymptote",
+      "item19": "vertical asymptote",
+      "item20": "compound interest",
+      "item21": "half-life",
+      "item22": "continuous growth",
+      "item23": "logarithmic differentiation",
+      "item24": "exponential growth function",
+      "item25": "exponential decay function",
+      "item26": "logarithmic form",
+      "item27": "exponential form",
+      "item28": "domain of a logarithmic function",
+      "item29": "range of an exponential function",
+      "item30": "inverse function",
+      "item31": "logarithmic identity",
+      "item32": "exponent laws",
+      "item33": "logarithm base change",
+      "item34": "power of a power",
+      "item35": "exponential function",
+      "item36": "natural exponential function",
+      "item37": "logarithmic approximation",
+      "item38": "exponent rule",
+      "item39": "graph of an exponential function",
+      "item40": "logarithmic function graph",
+      "item41": "logarithmic equation solving",
+      "item42": "exponential equation solving",
+      "item43": "base of logarithm",
+      "item44": "base of exponential function",
+      "item45": "exponential identity",
+      "item46": "compound interest formula",
+      "item47": "exponential decay model",
+      "item48": "logarithmic expansion",
+      "item49": "exponential model",
+      "item50": "logarithmic function transformation",
+      "item51": "vertical shift",
+      "item52": "horizontal shift",
+      "item53": "exponential function shift",
+      "item54": "logarithmic transformation",
+      "item55": "exponential growth model",
+      "item56": "logarithmic expansion rule",
+      "item57": "logarithm of a product",
+      "item58": "logarithm of a quotient",
+      "item59": "logarithm of a power",
+      "item60": "euler's number",
+      "item61": "base change theorem",
+      "item62": "logarithmic simplification",
+      "item63": "exponential and logarithmic relationships",
+      "item64": "growth rate",
+      "item65": "decay rate",
+      "item66": "decay factor",
+      "item67": "increase factor",
+      "item68": "logarithmic scale conversion",
+      "item69": "reverse logarithmic function",
+      "item70": "inverse of exponential function",
+      "item71": "logarithmic equations",
+      "item72": "logarithmic inverse",
+      "item73": "natural log property",
+      "item74": "logarithmic addition rule",
+      "item75": "logarithmic subtraction rule",
+      "item76": "e as base",
+      "item77": "logarithmic approximation properties",
+      "item78": "logarithmic change of base",
+      "item79": "transformations of logarithmic graphs",
+      "item80": "applications of logarithms"
+    },
+    "answers": {
+      "item1": [
+        "exponent",
+        "logarithm",
+        "base",
+        "coefficient"
+      ],
+      "item2": [
+        "exponent",
+        "logarithm",
+        "base",
+        "coefficient"
+      ],
+      "item3": [
+        "logarithm",
+        "exponent",
+        "base",
+        "function"
+      ],
+      "item4": [
+        "exponent",
+        "base",
+        "inverse",
+        "coefficient"
+      ],
+      "item5": [
+        "decay",
+        "growth",
+        "rate of change",
+        "base"
+      ],
+      "item6": [
+        "growth",
+        "decay",
+        "rate",
+        "scale"
+      ],
+      "item7": [
+        "natural logarithm",
+        "logarithmic scale",
+        "base-10 logarithm",
+        "exponential logarithm"
+      ],
+      "item8": [
+        "exponential equation",
+        "logarithmic scale",
+        "growth function",
+        "exponential function"
+      ],
+      "item9": [
+        "exponential equation",
+        "logarithmic equation",
+        "quadratic equation",
+        "polynomial equation"
+      ],
+      "item10": [
+        "exponential equation",
+        "logarithmic equation",
+        "linear equation",
+        "constant equation"
+      ],
+      "item11": [
+        "domain",
+        "range",
+        "root",
+        "exponent"
+      ],
+      "item12": [
+        "domain",
+        "range",
+        "value",
+        "function"
+      ],
+      "item13": [
+        "pi",
+        "e",
+        "zero",
+        "one"
+      ],
+      "item14": [
+        "exponential function",
+        "logarithmic function",
+        "quadratic function",
+        "linear function"
+      ],
+      "item15": [
+        "product rule",
+        "power rule",
+        "chain rule",
+        "exponent rule"
+      ],
+      "item16": [
+        "change of base formula",
+        "power rule",
+        "logarithmic addition",
+        "logarithmic multiplication"
+      ],
+      "item17": [
+        "logarithmic rule",
+        "exponential rule",
+        "power rule",
+        "growth formula"
+      ],
+      "item18": [
+        "vertical asymptote",
+        "horizontal asymptote",
+        "oblique asymptote",
+        "none"
+      ],
+      "item19": [
+        "horizontal asymptote",
+        "vertical asymptote",
+        "removable discontinuity",
+        "none"
+      ],
+      "item20": [
+        "exponential decay",
+        "exponential growth",
+        "compound interest",
+        "linear growth"
+      ],
+      "item21": [
+        "compound interest",
+        "half-life",
+        "population growth",
+        "growth factor"
+      ],
+      "item22": [
+        "exponential decay",
+        "continuous growth",
+        "discrete growth",
+        "logarithmic growth"
+      ],
+      "item23": [
+        "differentiation",
+        "logarithmic differentiation",
+        "simplification",
+        "exponential differentiation"
+      ],
+      "item24": [
+        "exponential decay",
+        "exponential growth function",
+        "quadratic function",
+        "linear function"
+      ],
+      "item25": [
+        "exponential decay function",
+        "linear decay function",
+        "quadratic decay function",
+        "logarithmic decay function"
+      ],
+      "item26": [
+        "exponential form",
+        "logarithmic form",
+        "sine form",
+        "factor form"
+      ],
+      "item27": [
+        "logarithmic form",
+        "exponential form",
+        "quadratic form",
+        "factor form"
+      ],
+      "item28": [
+        "domain of an exponential function",
+        "domain of a logarithmic function",
+        "range of a logarithmic function",
+        "range of an exponential function"
+      ],
+      "item29": [
+        "range of a logarithmic function",
+        "range of an exponential function",
+        "domain of an exponential function",
+        "domain of a logarithmic function"
+      ],
+      "item30": [
+        "logarithmic function",
+        "inverse function",
+        "polynomial function",
+        "quadratic function"
+      ],
+      "item31": [
+        "logarithmic identity",
+        "exponential identity",
+        "logarithmic rule",
+        "exponent rule"
+      ],
+      "item32": [
+        "logarithmic laws",
+        "exponent laws",
+        "logarithmic simplifications",
+        "exponential transformations"
+      ],
+      "item33": [
+        "base change formula",
+        "exponent rule",
+        "change of base formula",
+        "logarithmic rule"
+      ],
+      "item34": [
+        "power of a product",
+        "power of a power",
+        "exponential multiplication",
+        "logarithmic exponentiation"
+      ],
+      "item35": [
+        "logarithmic equation",
+        "exponential function",
+        "polynomial function",
+        "logarithmic scale"
+      ],
+      "item36": [
+        "natural exponential function",
+        "logarithmic function",
+        "exponential form",
+        "logarithmic form"
+      ],
+      "item37": [
+        "logarithmic approximation",
+        "exponential approximation",
+        "natural log approximation",
+        "change of base approximation"
+      ],
+      "item38": [
+        "exponent rule",
+        "logarithmic rule",
+        "simplification rule",
+        "exponential property"
+      ],
+      "item39": [
+        "graph of a logarithmic function",
+        "graph of an exponential function",
+        "polynomial graph",
+        "rational function graph"
+      ],
+      "item40": [
+        "graph of a logarithmic function",
+        "graph of an exponential function",
+        "hyperbolic function graph",
+        "quadratic function graph"
+      ],
+      "item41": [
+        "logarithmic equation solving",
+        "exponential equation solving",
+        "polynomial equation solving",
+        "rational equation solving"
+      ],
+      "item42": [
+        "logarithmic equation solving",
+        "exponential equation solving",
+        "linear equation solving",
+        "quadratic equation solving"
+      ],
+      "item43": [
+        "logarithmic base",
+        "exponential base",
+        "exponent base",
+        "coefficient base"
+      ],
+      "item44": [
+        "logarithmic base",
+        "exponential base",
+        "logarithmic exponent",
+        "exponential exponent"
+      ],
+      "item45": [
+        "exponential identity",
+        "logarithmic identity",
+        "exponent identity",
+        "product identity"
+      ],
+      "item46": [
+        "compound interest formula",
+        "half-life formula",
+        "growth formula",
+        "logarithmic formula"
+      ],
+      "item47": [
+        "exponential decay model",
+        "half-life model",
+        "growth model",
+        "logarithmic model"
+      ],
+      "item48": [
+        "exponential approximation",
+        "logarithmic expansion",
+        "factorization",
+        "simplification"
+      ],
+      "item49": [
+        "logarithmic expansion",
+        "exponential approximation",
+        "factorization",
+        "simplification"
+      ],
+      "item50": [
+        "logarithmic function transformation",
+        "exponential function transformation",
+        "polynomial transformation",
+        "rational transformation"
+      ],
+      "item51": [
+        "vertical shift",
+        "horizontal shift",
+        "amplitude shift",
+        "phase shift"
+      ],
+      "item52": [
+        "vertical shift",
+        "horizontal shift",
+        "scale shift",
+        "phase shift"
+      ],
+      "item53": [
+        "exponential shift",
+        "logarithmic shift",
+        "polynomial shift",
+        "rational function shift"
+      ],
+      "item54": [
+        "logarithmic function transformation",
+        "exponential function transformation",
+        "polynomial transformation",
+        "trigonometric transformation"
+      ],
+      "item55": [
+        "exponential growth model",
+        "decay model",
+        "linear model",
+        "logarithmic model"
+      ],
+      "item56": [
+        "logarithmic expansion rule",
+        "exponential expansion rule",
+        "polynomial expansion rule",
+        "factorization rule"
+      ],
+      "item57": [
+        "logarithm of a product",
+        "logarithm of a sum",
+        "logarithm of a quotient",
+        "logarithm of a difference"
+      ],
+      "item58": [
+        "logarithm of a quotient",
+        "logarithm of a sum",
+        "logarithm of a product",
+        "logarithm of a difference"
+      ],
+      "item59": [
+        "logarithm of a power",
+        "logarithm of a sum",
+        "logarithm of a product",
+        "logarithm of a quotient"
+      ],
+      "item60": [
+        "euler's number",
+        "pi",
+        "phi",
+        "zero"
+      ],
+      "item61": [
+        "base change theorem",
+        "change of base formula",
+        "logarithmic change",
+        "exponential transformation"
+      ],
+      "item62": [
+        "logarithmic simplification",
+        "exponential simplification",
+        "polynomial simplification",
+        "rational simplification"
+      ],
+      "item63": [
+        "exponential relationships",
+        "logarithmic relationships",
+        "algebraic relationships",
+        "trigonometric relationships"
+      ],
+      "item64": [
+        "growth rate",
+        "decay rate",
+        "interest rate",
+        "exponential rate"
+      ],
+      "item65": [
+        "decay rate",
+        "growth rate",
+        "interest rate",
+        "function rate"
+      ],
+      "item66": [
+        "decay factor",
+        "growth factor",
+        "rate factor",
+        "exponent factor"
+      ],
+      "item67": [
+        "increase factor",
+        "decay factor",
+        "growth factor",
+        "interest factor"
+      ],
+      "item68": [
+        "logarithmic scale conversion",
+        "exponential conversion",
+        "growth conversion",
+        "rate conversion"
+      ],
+      "item69": [
+        "reverse logarithmic function",
+        "inverse logarithmic function",
+        "decay function",
+        "growth function"
+      ],
+      "item70": [
+        "inverse of exponential function",
+        "inverse of logarithmic function",
+        "inverse of power function",
+        "inverse of polynomial function"
+      ],
+      "item71": [
+        "logarithmic equation",
+        "exponential equation",
+        "quadratic equation",
+        "rational equation"
+      ],
+      "item72": [
+        "inverse of logarithmic function",
+        "inverse of exponential function",
+        "inverse of power function",
+        "inverse of rational function"
+      ],
+      "item73": [
+        "natural log property",
+        "exponential property",
+        "logarithmic transformation",
+        "factorization rule"
+      ],
+      "item74": [
+        "logarithmic addition rule",
+        "logarithmic subtraction rule",
+        "logarithmic multiplication rule",
+        "logarithmic power rule"
+      ],
+      "item75": [
+        "logarithmic subtraction rule",
+        "logarithmic addition rule",
+        "logarithmic multiplication rule",
+        "logarithmic power rule"
+      ],
+      "item76": [
+        "e as base",
+        "10 as base",
+        "2 as base",
+        "phi as base"
+      ],
+      "item77": [
+        "logarithmic approximation properties",
+        "exponential approximation properties",
+        "logarithmic simplification",
+        "growth factor properties"
+      ],
+      "item78": [
+        "logarithmic change of base",
+        "logarithmic approximation",
+        "change of base formula",
+        "logarithmic multiplication rule"
+      ],
+      "item79": [
+        "transformations of logarithmic graphs",
+        "transformations of exponential graphs",
+        "transformations of polynomial graphs",
+        "transformations of rational graphs"
+      ],
+      "item80": [
+        "applications of logarithms",
+        "applications of exponential functions",
+        "applications of quadratic functions",
+        "applications of polynomials"
+      ]
+    },
+    "questions": {
+      "item1": "What is the term for the power to which a number is raised in an exponential function?",
+      "item2": "What function is used to find the exponent needed to reach a given value?",
+      "item3": "What term refers to the number raised to a power in an exponential function?",
+      "item4": "What is the relationship between an exponential function and its inverse?",
+      "item5": "What term describes a process where a quantity increases over time?",
+      "item6": "What term describes a process where a quantity decreases over time?",
+      "item7": "What logarithm is based on the constant e?",
+      "item8": "What type of scale is used to represent values in logarithmic form?",
+      "item9": "What type of equation involves an exponential function?",
+      "item10": "What type of equation involves a logarithmic function?",
+      "item11": "What term refers to the set of possible input values for a function?",
+      "item12": "What term refers to the set of possible output values for a function?",
+      "item13": "What is the constant approximately equal to 2.718 that forms the base of the natural logarithm?",
+      "item14": "What type of function involves the logarithm of a variable?",
+      "item15": "What rule involves raising an exponent to another power?",
+      "item16": "What formula allows conversion between different logarithmic bases?",
+      "item17": "What property of logarithms simplifies expressions involving multiplication, division, or exponents?",
+      "item18": "What is the horizontal line that a logarithmic function approaches but never touches?",
+      "item19": "What is the vertical line that a logarithmic function approaches but never crosses?",
+      "item20": "What is the formula for calculating interest compounded at regular intervals?",
+      "item21": "What term refers to the time it takes for a substance to reduce to half its initial amount?",
+      "item22": "What type of growth occurs continuously over time?",
+      "item23": "What method is used to differentiate logarithmic functions?",
+      "item24": "What type of function represents a situation where a quantity increases exponentially over time?",
+      "item25": "What type of function represents a situation where a quantity decreases exponentially over time?",
+      "item26": "What form of a logarithmic expression involves the base, exponent, and result?",
+      "item27": "What form of an equation expresses the result of an exponential function?",
+      "item28": "What is the domain of a logarithmic function?",
+      "item29": "What is the range of an exponential function?",
+      "item30": "What term refers to the function that 'undoes' another function?",
+      "item31": "What identity is commonly used to simplify logarithmic expressions?",
+      "item32": "What laws help simplify expressions involving exponents?",
+      "item33": "What is the formula used to change the base of a logarithm?",
+      "item34": "What rule allows you to simplify powers raised to other powers?",
+      "item35": "What is the function that involves a variable raised to a constant exponent?",
+      "item36": "What function involves the constant e as its base and is used in continuous growth models?",
+      "item37": "What is used to estimate the value of a logarithmic expression for small changes in input?",
+      "item38": "What rule simplifies expressions where the base is raised to an exponent?",
+      "item39": "What is the shape of the graph of an exponential function?",
+      "item40": "What is the shape of the graph of a logarithmic function?",
+      "item41": "What method is used to solve equations involving logarithms?",
+      "item42": "What method is used to solve equations involving exponentials?",
+      "item43": "What term refers to the number that serves as the base of a logarithmic expression?",
+      "item44": "What term refers to the number that serves as the base of an exponential function?",
+      "item45": "What is the identity that connects the logarithmic and exponential forms of an equation?",
+      "item46": "What formula calculates interest compounded continuously?",
+      "item47": "What model describes the behavior of substances decaying over time?",
+      "item48": "What term refers to the process of expanding a logarithmic expression into simpler terms?",
+      "item49": "What is the model used to predict exponential growth?",
+      "item50": "What transformation involves shifting the graph of a logarithmic function horizontally or vertically?",
+      "item51": "What is the effect of shifting the graph of a logarithmic function vertically?",
+      "item52": "What is the effect of shifting the graph of a logarithmic function horizontally?",
+      "item53": "What is the effect of shifting the graph of an exponential function?",
+      "item54": "What transformation involves shifting the graph of a logarithmic function?",
+      "item55": "What model describes the increase of a quantity over time at a constant rate?",
+      "item56": "What rule simplifies the expansion of logarithmic expressions?",
+      "item57": "What logarithmic rule is used to simplify products inside the logarithm?",
+      "item58": "What logarithmic rule is used to simplify quotients inside the logarithm?",
+      "item59": "What rule is used to simplify the logarithm of a power?",
+      "item60": "What is the base of the natural logarithm, commonly denoted as e?",
+      "item61": "What theorem allows you to convert between different logarithmic bases?",
+      "item62": "What method is used to simplify complex logarithmic expressions?",
+      "item63": "What term refers to the relationship between exponential and logarithmic functions?",
+      "item64": "What rate measures how fast a quantity increases over time in exponential growth?",
+      "item65": "What rate measures how fast a quantity decreases over time in exponential decay?",
+      "item66": "What factor describes how quickly a quantity decays over time?",
+      "item67": "What factor describes how much a quantity increases over time?",
+      "item68": "What conversion is used to transform values represented in logarithmic scale?",
+      "item69": "What function is the inverse of a logarithmic function?",
+      "item70": "What function is the inverse of an exponential function?",
+      "item71": "What type of equation is solved using logarithmic methods?",
+      "item72": "What is the inverse of a logarithmic function?",
+      "item73": "What property is specific to the natural logarithm?",
+      "item74": "What rule allows you to add logarithms with the same base?",
+      "item75": "What rule allows you to subtract logarithms with the same base?",
+      "item76": "What number is commonly used as the base for natural logarithms?",
+      "item77": "What properties are used to approximate logarithmic values for small changes?",
+      "item78": "What is the formula used to change the base of a logarithm?",
+      "item79": "What transformations apply to the graphs of logarithmic functions?",
+      "item80": "What are some real-world applications of logarithms?"
+    }
+  }

@@ -39,7 +39,47 @@
       "item37": "leading term",
       "item38": "common denominator",
       "item39": "remainder theorem",
-      "item40": "real root"
+      "item40": "real root",
+      "item41": "factorable",
+    "item42": "zero product property",
+    "item43": "real number",
+    "item44": "multiplicity of roots",
+    "item45": "leading term test",
+    "item46": "rational root theorem",
+    "item47": "polynomial function",
+    "item48": "long division",
+    "item49": "synthetic substitution",
+    "item50": "degree of the numerator",
+    "item51": "polynomial division",
+    "item52": "remainder theorem",
+    "item53": "monic polynomial",
+    "item54": "complex conjugate root theorem",
+    "item55": "factor theorem",
+    "item56": "horizontal asymptote rule",
+    "item57": "even function",
+    "item58": "range of a function",
+    "item59": "rationalizing the denominator",
+    "item60": "real zero",
+    "item61": "long division of polynomials",
+    "item62": "rational function",
+    "item63": "descartes' rule of signs",
+    "item64": "local minima",
+    "item65": "intercepts of a rational function",
+    "item66": "polynomial equation",
+    "item67": "leading coefficient test",
+    "item68": "vertical asymptote",
+    "item69": "zero of a polynomial",
+    "item70": "domain of a rational function",
+    "item71": "root of a polynomial",
+    "item72": "monomial",
+    "item73": "degree of a rational function",
+    "item74": "asymptotic behavior",
+    "item75": "multiple roots",
+    "item76": "rational function form",
+    "item77": "irreducible polynomial",
+    "item78": "slope of the tangent",
+    "item79": "function's end behavior",
+    "item80": "multiplicity of a factor"
     },
     "answers": {
       "item1": [
@@ -281,6 +321,246 @@
         "rational root",
         "complex root",
         "irrational root"
+      ],
+      "item41": [
+        "not factorable",
+        "factorable",
+        "not reducible",
+        "irreducible"
+      ],
+      "item42": [
+        "distribution property",
+        "zero product property",
+        "multiplication rule",
+        "polynomial identity"
+      ],
+      "item43": [
+        "imaginary number",
+        "real number",
+        "irrational number",
+        "complex number"
+      ],
+      "item44": [
+        "order of a factor",
+        "multiplicity of roots",
+        "root degree",
+        "repeated solution"
+      ],
+      "item45": [
+        "synthetic division",
+        "leading term test",
+        "polynomial division",
+        "factor theorem"
+      ],
+      "item46": [
+        "factor theorem",
+        "rational root theorem",
+        "complex conjugate theorem",
+        "remainder theorem"
+      ],
+      "item47": [
+        "rational function",
+        "polynomial function",
+        "quadratic function",
+        "linear function"
+      ],
+      "item48": [
+        "synthetic division",
+        "long division",
+        "algebraic division",
+        "synthetic substitution"
+      ],
+      "item49": [
+        "quadratic formula",
+        "synthetic substitution",
+        "factor theorem",
+        "remainder theorem"
+      ],
+      "item50": [
+        "degree of the denominator",
+        "degree of the numerator",
+        "coefficient of x",
+        "constant term"
+      ],
+      "item51": [
+        "simplification",
+        "polynomial division",
+        "synthetic substitution",
+        "factoring"
+      ],
+      "item52": [
+        "quotient rule",
+        "remainder theorem",
+        "synthetic division",
+        "polynomial identity"
+      ],
+      "item53": [
+        "monic polynomial",
+        "constant polynomial",
+        "irreducible polynomial",
+        "rational polynomial"
+      ],
+      "item54": [
+        "complex conjugate root theorem",
+        "leading coefficient test",
+        "quadratic formula",
+        "descartes' rule of signs"
+      ],
+      "item55": [
+        "factor theorem",
+        "remainder theorem",
+        "rational root theorem",
+        "synthetic division"
+      ],
+      "item56": [
+        "horizontal asymptote rule",
+        "vertical asymptote rule",
+        "oblique asymptote rule",
+        "asymptote elimination"
+      ],
+      "item57": [
+        "odd function",
+        "even function",
+        "rational function",
+        "linear function"
+      ],
+      "item58": [
+        "domain of a function",
+        "range of a function",
+        "x-intercept",
+        "y-intercept"
+      ],
+      "item59": [
+        "rationalizing the denominator",
+        "simplifying the numerator",
+        "removing radicals",
+        "combining like terms"
+      ],
+      "item60": [
+        "rational zero",
+        "real zero",
+        "imaginary zero",
+        "complex zero"
+      ],
+      "item61": [
+        "remainder theorem",
+        "long division of polynomials",
+        "polynomial factoring",
+        "synthetic substitution"
+      ],
+      "item62": [
+        "exponential function",
+        "rational function",
+        "polynomial function",
+        "logarithmic function"
+      ],
+      "item63": [
+        "descartes' rule of signs",
+        "complex conjugate root theorem",
+        "factor theorem",
+        "remainder theorem"
+      ],
+      "item64": [
+        "local maxima",
+        "local minima",
+        "global minima",
+        "global maxima"
+      ],
+      "item65": [
+        "x-intercepts",
+        "y-intercepts",
+        "intercepts of a rational function",
+        "domain restrictions"
+      ],
+      "item66": [
+        "polynomial function",
+        "polynomial equation",
+        "rational expression",
+        "rational equation"
+      ],
+      "item67": [
+        "long division test",
+        "leading coefficient test",
+        "polynomial factorization",
+        "synthetic division test"
+      ],
+      "item68": [
+        "vertical asymptote",
+        "horizontal asymptote",
+        "removable discontinuity",
+        "oblique asymptote"
+      ],
+      "item69": [
+        "factor",
+        "root",
+        "zero",
+        "coefficient"
+      ],
+      "item70": [
+        "domain of a rational function",
+        "range of a rational function",
+        "intercepts",
+        "vertical asymptotes"
+      ],
+      "item71": [
+        "zero of a polynomial",
+        "real root",
+        "real solution",
+        "rational root"
+      ],
+      "item72": [
+        "monomial",
+        "binomial",
+        "trinomial",
+        "polynomial"
+      ],
+      "item73": [
+        "degree of a rational function",
+        "degree of a polynomial",
+        "degree of the denominator",
+        "degree of the numerator"
+      ],
+      "item74": [
+        "asymptotic behavior",
+        "factorization behavior",
+        "simplification behavior",
+        "solution behavior"
+      ],
+      "item75": [
+        "repeated zeros",
+        "multiple roots",
+        "single root",
+        "leading zeros"
+      ],
+      "item76": [
+        "polynomial form",
+        "quadratic form",
+        "rational function form",
+        "exponential form"
+      ],
+      "item77": [
+        "reducible polynomial",
+        "irreducible polynomial",
+        "monic polynomial",
+        "constant polynomial"
+      ],
+      "item78": [
+        "slope of the tangent",
+        "slope of the curve",
+        "derivative",
+        "second derivative"
+      ],
+      "item79": [
+        "domain behavior",
+        "function's end behavior",
+        "asymptotic behavior",
+        "range behavior"
+      ],
+      "item80": [
+        "multiple roots",
+        "root multiplicity",
+        "factor multiplicity",
+        "degree of multiplicity"
       ]
     },
     "questions": {
@@ -323,7 +603,47 @@
       "item37": "What is the term for the first term in a polynomial?",
       "item38": "What do you call the denominator in rational expressions?",
       "item39": "What theorem explains the remainder when dividing a polynomial by a linear factor?",
-      "item40": "What is the term for a root that is not complex or irrational?"
+      "item40": "What is the term for a root that is not complex or irrational?",
+      "item41": "Which term describes a polynomial that can be factored into two binomials?",
+    "item42": "What property states that if the product of two terms is zero, at least one of the terms must be zero?",
+    "item43": "What type of number is used to represent polynomial roots?",
+    "item44": "What term refers to how many times a root appears in a polynomial equation?",
+    "item45": "Which test helps determine the end behavior of a polynomial function?",
+    "item46": "Which theorem helps find possible rational roots of a polynomial equation?",
+    "item47": "What type of function involves a sum of terms with non-negative integer exponents of x?",
+    "item48": "What method is used to divide polynomials when the divisor is not a monomial?",
+    "item49": "What process is used to substitute a value into a synthetic division table?",
+    "item50": "What term describes the degree of the highest power of x in a rational function?",
+    "item51": "What process is used to divide polynomials and find a quotient?",
+    "item52": "What theorem gives the remainder when dividing a polynomial by a linear factor?",
+    "item53": "What term describes a polynomial whose leading coefficient is equal to 1?",
+    "item54": "What theorem states that if a polynomial has a complex root, the conjugate of that root must also be a root?",
+    "item55": "What theorem is used to find factors of polynomials based on possible roots?",
+    "item56": "What rule helps find the horizontal asymptote of a rational function?",
+    "item57": "What type of function has symmetry about the y-axis?",
+    "item58": "What is the set of all possible output values for a function?",
+    "item59": "What is the process of eliminating radicals from a denominator in a rational expression?",
+    "item60": "What term describes the value of x that makes a polynomial equal to zero?",
+    "item61": "What is the remainder when a polynomial is divided by a linear factor?",
+    "item62": "What type of function is formed by a ratio of two polynomials?",
+    "item63": "What rule helps predict the number of positive and negative real roots of a polynomial?",
+    "item64": "What type of critical point represents the lowest value of a function in a specific interval?",
+    "item65": "What term describes where a function intersects the x-axis?",
+    "item66": "What is a polynomial equation used to solve for the roots of a function?",
+    "item67": "What test helps determine the end behavior of a polynomial function based on its leading coefficient?",
+    "item68": "What is the term for a line that a rational function approaches as x tends toward infinity or negative infinity?",
+    "item69": "What is another term for a solution to a polynomial equation?",
+    "item70": "What is the set of all allowable input values for a rational function?",
+    "item71": "What is another name for a root of a polynomial?",
+    "item72": "What type of polynomial contains only one term?",
+    "item73": "What describes the degree of the numerator and denominator in a rational function?",
+    "item74": "What term describes the behavior of a function as it approaches an asymptote?",
+    "item75": "What do you call roots that appear more than once in a polynomial equation?",
+    "item76": "What is the general form of a rational function?",
+    "item77": "What term describes a polynomial that cannot be factored further over the integers?",
+    "item78": "What term describes the rate of change of a function at a given point?",
+    "item79": "What describes the behavior of a function as its input values increase or decrease without bound?",
+    "item80": "What term refers to the number of times a factor appears in a polynomial?"
     }
   }
   

@@ -1,0 +1,352 @@
+{
+    "correctAnswers": {
+      "item1": "The central theme is the impact of technology on modern society.",
+      "item2": "The author argues that while technology has drawbacks, it offers more advantages.",
+      "item3": "The tone is optimistic about the potential of technology in the future.",
+      "item4": "The example of smartphones is used to illustrate the positive effects of technology.",
+      "item5": "The author believes that technology can improve lives and bring positive change.",
+      "item6": "The author uses studies and data to reinforce their point about the advantages of technology.",
+      "item7": "The central idea of the passage is about the struggles faced by immigrants in a new country.",
+      "item8": "The author wrote this passage to show the emotional journey of immigrants in America.",
+      "item9": "The tone of the passage is empathetic, focusing on the challenges immigrants face.",
+      "item10": "The detail about learning a new language supports the idea of the immigrant experience being challenging.",
+      "item11": "You can infer that the author believes that immigrants need support and understanding from the community.",
+      "item12": "The author highlights personal stories to support their point about the hardships immigrants face.",
+      "item13": "The passage discusses the impact of climate change on polar bear populations in the Arctic.",
+      "item14": "The author wrote the passage to highlight the dangers of global warming on wildlife.",
+      "item15": "The tone of the passage is urgent, expressing concern about the future of the environment.",
+      "item16": "The example of polar bears losing their habitat supports the argument about the dangers of climate change.",
+      "item17": "The author believes that immediate action is needed to combat climate change to protect wildlife.",
+      "item18": "The author supports their argument by citing scientific research and environmental data.",
+      "item19": "The passage explores the rise of social media and its effects on personal relationships.",
+      "item20": "The author wrote the passage to investigate the influence of technology on human connection.",
+      "item21": "The tone of the passage is reflective, suggesting that social media both connects and isolates people.",
+      "item22": "The detail about people spending more time online than in face-to-face conversations supports the concern over social media's impact.",
+      "item23": "The author suggests that while social media is useful, it can harm personal relationships if overused.",
+      "item24": "The author uses examples from personal experiences and research to support their argument about social media.",
+      "item25": "The passage addresses the impact of the industrial revolution on society and workers.",
+      "item26": "The author wrote this passage to show how industrialization led to economic and social changes.",
+      "item27": "The tone is analytical, looking at the positive and negative effects of the industrial revolution.",
+      "item28": "The detail about poor working conditions in factories supports the argument that industrialization had negative effects.",
+      "item29": "The author believes that the industrial revolution caused both progress and suffering.",
+      "item30": "The author supports their argument by using historical facts and labor statistics.",
+      "item31": "The passage focuses on the role of education in reducing inequality and promoting equality.",
+      "item32": "The author wrote this passage to advocate for more equitable access to education for all.",
+      "item33": "The tone is persuasive, urging for education reforms to improve fairness in society.",
+      "item34": "The example of underfunded schools in poorer areas supports the argument that education is not equally accessible.",
+      "item35": "The author suggests that education is a key tool in breaking the cycle of poverty and inequality.",
+      "item36": "The author uses statistical data on education gaps to emphasize the importance of equal opportunities.",
+      "item37": "The passage addresses the challenges faced by women in the workplace, particularly in male-dominated industries.",
+      "item38": "The author wrote the passage to highlight the barriers women face in advancing their careers.",
+      "item39": "The tone is critical, focusing on the systemic sexism present in the workplace.",
+      "item40": "The example of the gender pay gap supports the argument about inequality in the workforce."
+    },
+    "answers": {
+      "item1": [
+    "The central theme is the impact of technology on modern society.",
+    "The central theme is about social media and its effect on relationships.",
+    "The central theme is about the loss of traditional skills.",
+    "The central theme is the consequences of over-relying on technology."
+  ],
+  "item2": [
+    "The author argues that while technology has drawbacks, it offers more advantages.",
+    "The author argues that technology has mostly negative consequences.",
+    "The author argues that technology is a tool that should be used in moderation.",
+    "The author argues that society is too dependent on technology."
+  ],
+  "item3": [
+    "The tone is optimistic about the potential of technology in the future.",
+    "The tone is critical of technological progress.",
+    "The tone is neutral and fact-based.",
+    "The tone is pessimistic, focusing on technology's potential dangers."
+  ],
+  "item4": [
+    "The example of smartphones is used to illustrate the positive effects of technology.",
+    "The example of smartphones shows how technology can cause harm.",
+    "The example of smartphones shows the addiction to digital devices.",
+    "The example of smartphones highlights their negative social impact."
+  ],
+  "item5": [
+    "The author believes that technology can improve lives and bring positive change.",
+    "The author believes that technology is a double-edged sword.",
+    "The author believes that technology isolates people from one another.",
+    "The author believes that technology has not lived up to its potential."
+  ],
+  "item6": [
+    "The author uses studies and data to reinforce their point about the advantages of technology.",
+    "The author relies on personal experiences to argue their case about technology.",
+    "The author uses anecdotes to show the drawbacks of technology.",
+    "The author uses examples from history to support their point about technology."
+  ],
+  "item7": [
+    "The central idea of the passage is about the struggles faced by immigrants in a new country.",
+    "The central idea of the passage is about the importance of citizenship.",
+    "The central idea of the passage is about the history of immigration policies.",
+    "The central idea of the passage is about the benefits of immigration."
+  ],
+  "item8": [
+    "The author wrote this passage to show the emotional journey of immigrants in America.",
+    "The author wrote this passage to argue against immigration policies.",
+    "The author wrote this passage to highlight economic contributions of immigrants.",
+    "The author wrote this passage to illustrate the history of immigration in the U.S."
+  ],
+  "item9": [
+    "The tone of the passage is empathetic, focusing on the challenges immigrants face.",
+    "The tone of the passage is celebratory, focusing on immigrant successes.",
+    "The tone of the passage is critical of immigration laws.",
+    "The tone of the passage is neutral, presenting facts about immigration."
+  ],
+  "item10": [
+    "The detail about learning a new language supports the idea of the immigrant experience being challenging.",
+    "The detail about learning a new language supports the idea that immigrants easily adapt to their new country.",
+    "The detail about learning a new language supports the idea that immigrants experience no difficulties.",
+    "The detail about learning a new language supports the idea that immigrants should quickly assimilate."
+  ],
+  "item11": [
+    "You can infer that the author believes that immigrants need support and understanding from the community.",
+    "You can infer that the author believes immigrants should be left to fend for themselves.",
+    "You can infer that the author believes that immigrants should adopt the culture quickly.",
+    "You can infer that the author believes immigrants should not assimilate into the culture."
+  ],
+  "item12": [
+    "The author highlights personal stories to support their point about the hardships immigrants face.",
+    "The author uses statistics to demonstrate the success of immigrants.",
+    "The author uses government policies to show the benefits of immigration.",
+    "The author uses historical events to show the difficulties immigrants face."
+  ],
+  "item13": [
+    "The passage discusses the impact of climate change on polar bear populations in the Arctic.",
+    "The passage discusses how rising temperatures affect global weather patterns.",
+    "The passage discusses the effect of climate change on plant life.",
+    "The passage discusses how climate change influences coastal regions."
+  ],
+  "item14": [
+    "The author wrote the passage to highlight the dangers of global warming on wildlife.",
+    "The author wrote the passage to argue against the idea of climate change.",
+    "The author wrote the passage to discuss the benefits of global warming.",
+    "The author wrote the passage to explain the causes of climate change."
+  ],
+  "item15": [
+    "The tone of the passage is urgent, expressing concern about the future of the environment.",
+    "The tone of the passage is indifferent, presenting facts about climate change.",
+    "The tone of the passage is optimistic, suggesting climate change can be solved.",
+    "The tone of the passage is critical of environmental regulations."
+  ],
+  "item16": [
+    "The example of polar bears losing their habitat supports the argument about the dangers of climate change.",
+    "The example of polar bears illustrates the need for more polar research.",
+    "The example of polar bears supports the idea that climate change is a myth.",
+    "The example of polar bears highlights the success of conservation efforts."
+  ],
+  "item17": [
+    "The author believes that immediate action is needed to combat climate change to protect wildlife.",
+    "The author believes that no immediate action is necessary regarding climate change.",
+    "The author believes that climate change is a minor issue for future generations.",
+    "The author believes that individual efforts are enough to fight climate change."
+  ],
+  "item18": [
+    "The author supports their argument by citing scientific research and environmental data.",
+    "The author supports their argument by using personal anecdotes.",
+    "The author supports their argument by discussing economic policies.",
+    "The author supports their argument by citing historical environmental trends."
+  ],
+  "item19": [
+    "The passage explores the rise of social media and its effects on personal relationships.",
+    "The passage explores the decline of face-to-face communication.",
+    "The passage explores the benefits of traditional communication methods.",
+    "The passage explores the relationship between technology and loneliness."
+  ],
+  "item20": [
+    "The author wrote the passage to investigate the influence of technology on human connection.",
+    "The author wrote the passage to explore the role of traditional media in communication.",
+    "The author wrote the passage to discuss social media’s economic impact.",
+    "The author wrote the passage to explain how social media is beneficial."
+  ],
+  "item21": [
+    "The tone of the passage is reflective, suggesting that social media both connects and isolates people.",
+    "The tone of the passage is critical of social media’s impact on relationships.",
+    "The tone of the passage is positive about the role of social media in communication.",
+    "The tone of the passage is neutral, offering a balanced view of social media."
+  ],
+  "item22": [
+    "The detail about people spending more time online than in face-to-face conversations supports the concern over social media's impact.",
+    "The detail about social media promoting physical activity supports the argument for its benefits.",
+    "The detail about social media’s ability to create friendships supports the argument for its positive impact.",
+    "The detail about social media increasing job opportunities supports its usefulness."
+  ],
+  "item23": [
+    "The author suggests that while social media is useful, it can harm personal relationships if overused.",
+    "The author suggests that social media does not affect personal relationships.",
+    "The author suggests that social media has no negative consequences.",
+    "The author suggests that social media is an essential tool for connection."
+  ],
+  "item24": [
+    "The author uses examples from personal experiences and research to support their argument about social media.",
+    "The author uses statistics to demonstrate the dangers of social media.",
+    "The author uses case studies from psychology to support their argument.",
+    "The author uses historical examples to illustrate the impact of technology on relationships."
+  ],
+  "item25": [
+    "The passage discusses the impact of the industrial revolution on society and workers.",
+    "The passage discusses the importance of worker rights in modern industries.",
+    "The passage discusses the role of technological advances in the 19th century.",
+    "The passage discusses the growth of factory production and its societal effects."
+  ],
+  "item26": [
+    "The author wrote this passage to show how industrialization led to economic and social changes.",
+    "The author wrote this passage to discuss the negative environmental effects of industrialization.",
+    "The author wrote this passage to highlight the benefits of industrialization for workers.",
+    "The author wrote this passage to show how industrialization impacted workers' rights."
+  ],
+  "item27": [
+    "The tone is analytical, looking at the positive and negative effects of the industrial revolution.",
+    "The tone is celebratory, highlighting the achievements of industrialization.",
+    "The tone is critical, focusing on the exploitation caused by industrialization.",
+    "The tone is neutral, discussing both sides of industrialization."
+  ],
+  "item28": [
+    "The detail about poor working conditions in factories supports the argument that industrialization had negative effects.",
+    "The detail about factory wages supports the argument that industrialization benefited workers.",
+    "The detail about factory conditions supports the argument that industrialization improved quality of life.",
+    "The detail about factory expansion supports the idea that industrialization was a positive force."
+  ],
+  "item29": [
+    "The author believes that the industrial revolution caused both progress and suffering.",
+    "The author believes the industrial revolution was purely positive for society.",
+    "The author believes industrialization had no effect on worker conditions.",
+    "The author believes that industrialization mainly harmed society."
+  ],
+  "item30": [
+    "The author supports their argument by using historical facts and labor statistics.",
+    "The author supports their argument by citing personal testimonies from workers.",
+    "The author supports their argument by discussing economic policies.",
+    "The author supports their argument by analyzing the benefits of industrial growth."
+  ],
+  "item31": [
+    "The passage focuses on the role of education in reducing inequality and promoting equality.",
+    "The passage discusses how education contributes to the economy.",
+    "The passage discusses the challenges of providing education to rural areas.",
+    "The passage focuses on the importance of private education."
+  ],
+  "item32": [
+    "The author wrote this passage to advocate for more equitable access to education for all.",
+    "The author wrote this passage to show the success of the current education system.",
+    "The author wrote this passage to highlight the failures in public education.",
+    "The author wrote this passage to discuss the need for education reform."
+  ],
+  "item33": [
+    "The tone is passionate, advocating for more investment in public education.",
+    "The tone is analytical, presenting facts about the state of education.",
+    "The tone is critical of current education policies.",
+    "The tone is hopeful, suggesting that education can lead to social change."
+  ],
+  "item34": [
+    "The detail about underfunded schools supports the argument that education inequality must be addressed.",
+    "The detail about underfunded schools supports the argument that public education is succeeding.",
+    "The detail about underfunded schools supports the argument that private schools are better.",
+    "The detail about underfunded schools supports the argument that education should be free."
+  ],
+  "item35": [
+    "The author believes education is a fundamental right that should be accessible to everyone.",
+    "The author believes education is unnecessary for personal growth.",
+    "The author believes education is only for those pursuing professional careers.",
+    "The author believes education is only important in urban areas."
+  ],
+  "item36": [
+    "The author supports their argument by citing statistics about graduation rates.",
+    "The author supports their argument by describing personal experiences with teachers.",
+    "The author supports their argument by analyzing education policy changes.",
+    "The author supports their argument by discussing the impact of education on future success."
+  ],
+  "item37": [
+    "The central theme of the passage is the challenges women face in the workplace.",
+    "The central theme of the passage is about the impact of corporate culture.",
+    "The central theme of the passage is about gender equality in modern workplaces.",
+    "The central theme of the passage is about the evolution of women’s rights."
+  ],
+  "item38": [
+    "The author wrote this passage to discuss the barriers women face in the workplace.",
+    "The author wrote this passage to promote gender equality policies in businesses.",
+    "The author wrote this passage to celebrate the progress women have made in careers.",
+    "The author wrote this passage to analyze the impact of women in leadership roles."
+  ],
+  "item39": [
+    "The tone is critical of the discrimination that women experience in the workplace.",
+    "The tone is supportive of women's empowerment in professional spaces.",
+    "The tone is neutral, providing facts about women in the workforce.",
+    "The tone is optimistic, suggesting that gender equality is achievable."
+  ],
+  "item40": [
+    "The example of the gender pay gap supports the argument that women still face discrimination in the workplace.",
+    "The example of the gender pay gap supports the argument that women are paid more than men in some fields.",
+    "The example of the gender pay gap highlights the need for equal pay legislation.",
+    "The example of the gender pay gap shows that women have the same opportunities as men."
+  ]
+    },
+    "questions": {
+      "item1": "What is the central theme of the passage?",
+      "item2": "What is the author's argument regarding technology?",
+      "item3": "What tone does the author convey about technology?",
+      "item4": "How does the example of smartphones support the author's argument?",
+      "item5": "What can you infer about the author's view of technology?",
+      "item6": "How does the author support their argument about technology?",
+      "item7": "What is the central idea of the passage?",
+      "item8": "Why did the author write this passage?",
+      "item9": "How would you describe the tone of the passage?",
+      "item10": "How does the detail about learning a new language support the main idea?",
+      "item11": "What can be inferred about the author's view on immigrants?",
+      "item12": "How does the author support the argument about the immigrant experience?",
+      "item13": "What environmental issue is discussed in the passage?",
+      "item14": "Why did the author write this passage?",
+      "item15": "How would you describe the tone of the passage?",
+      "item16": "How does the example of polar bears losing their habitat support the main argument?",
+      "item17": "What action does the author believe is necessary regarding climate change?",
+      "item18": "How does the author support their argument about climate change?",
+      "item19": "What is the central idea of the passage?",
+      "item20": "Why did the author write this passage about social media?",
+      "item21": "What is the tone of the passage about social media?",
+      "item22": "How does the detail about online interactions support the author's argument?",
+      "item23": "What does the author believe about the effects of social media?",
+      "item24": "How does the author support their argument about social media?",
+      "item25": "What is the central theme of the passage about the industrial revolution?",
+      "item26": "Why did the author write this passage on industrialization?",
+      "item27": "What tone does the author use in the passage on industrialization?",
+      "item28": "How does the detail about factory conditions support the author's argument?",
+      "item29": "What does the author suggest about industrialization?",
+      "item30": "How does the author support their argument on industrialization?",
+      "item31": "What is the central theme of the passage about education?",
+      "item32": "Why did the author write this passage on education?",
+      "item33": "What is the tone of the passage on education?",
+      "item34": "How does the detail about underfunded schools support the main argument?",
+      "item35": "What does the author suggest about the importance of education?",
+      "item36": "How does the author support their argument on education?",
+      "item37": "What is the central idea of the passage about women in the workplace?",
+      "item38": "Why did the author write this passage about women in the workplace?",
+      "item39": "What tone does the author use in the passage on women in the workplace?",
+      "item40": "How does the example of the gender pay gap support the author's argument?"
+    },
+    "passages": {
+      "item1": {
+        "passage": "In the last few decades, technology has advanced at a rapid pace, impacting virtually every aspect of society. The smartphone, for example, has revolutionized communication, work, and entertainment. More recently, innovations like artificial intelligence and self-driving cars promise to change how we live even further. While some critics argue that technology isolates people and leads to social problems, the benefits are undeniable. Technology has improved healthcare, created new industries, and made information more accessible than ever before. The author believes that with careful management, the future of technology can be a positive force for society, bringing people closer together and enhancing the quality of life."
+      },
+      "item7": {
+        "passage": "Immigrants face numerous challenges when moving to a new country. Learning a new language, adjusting to unfamiliar customs, and finding employment can be difficult. Many immigrants experience homesickness and loneliness as they try to adapt to their new life. Despite these challenges, they often find ways to thrive by relying on family support and community organizations. The emotional toll of immigration is not always understood by those who have never had to leave their homeland. The author argues that society needs to offer more support to immigrants, recognizing the struggles they face in the process of adapting."
+      },
+      "item13": {
+        "passage": "As global temperatures rise, the effects of climate change are becoming more pronounced. Polar bears, for instance, are losing their natural habitat as the Arctic ice melts. Without a place to hunt and build nests, many of these creatures are struggling to survive. The author discusses the ways in which climate change is disrupting ecosystems, warning that immediate action must be taken to reduce carbon emissions. While some debate the cause of climate change, the consequences are undeniable. Action is needed now to protect the future of our planet and its wildlife."
+      },
+      "item19": {
+        "passage": "Social media platforms have revolutionized communication, but they have also raised concerns about the impact on personal relationships. On one hand, social media allows people to stay connected across distances, share moments of their lives, and interact with a wide range of individuals. On the other hand, it has been shown to increase feelings of loneliness and isolation for some, as face-to-face interactions become less frequent. The author suggests that while social media has its benefits, it can also contribute to emotional and social challenges that people must navigate carefully."
+      },
+      "item25": {
+        "passage": "The industrial revolution brought immense change to society. While it led to economic growth and innovation, it also resulted in harsh working conditions for many. Factory workers often labored long hours in unsafe environments with little pay. The author explores both the advancements made during this time, such as the rise of factories and machinery, and the difficulties faced by workers, including the spread of child labor and worker exploitation. Ultimately, the industrial revolution brought both prosperity and suffering, and its legacy continues to impact society today."
+      },
+      "item31": {
+        "passage": "Education has long been recognized as a tool for upward mobility, offering individuals the opportunity to improve their social and economic status. However, the author argues that access to quality education is not equally distributed. In poorer communities, schools often suffer from underfunding, overcrowded classrooms, and a lack of resources, leading to poorer outcomes for students. The author suggests that providing equal educational opportunities for all students, regardless of their background or economic status, is crucial to creating a fair and just society."
+      },
+      "item37": {
+        "passage": "Women in the workplace face many obstacles, including the glass ceiling, which prevents them from rising to top leadership positions. Despite significant progress in women's rights, women continue to be underrepresented in higher-level positions, especially in male-dominated fields like technology and engineering. The author examines the reasons behind this inequality, including gender bias, societal expectations, and workplace cultures that favor men. The author advocates for equal opportunities and for breaking down the barriers that prevent women from reaching their full potential in the workforce."
+      }
+    }
+  }
+  

@@ -1,0 +1,330 @@
+{
+    "correctAnswers": {
+      "item1": "The American Dream often represents the idea of individual success and freedom.",
+      "item2": "Individualism is often celebrated as a key part of American identity.",
+      "item3": "Many American writers critique the concept of the American Dream in their work.",
+      "item4": "American identity is shaped by diverse experiences, including race, class, and gender.",
+      "item5": "The idea of achieving success through hard work and perseverance is central to the American Dream.",
+      "item6": "Literature often portrays the tension between personal ambition and societal expectations.",
+      "item7": "Authors use symbolism to comment on the American Dream in their works.",
+      "item8": "Characters in literature sometimes fail to achieve the American Dream, highlighting its flaws.",
+      "item9": "The American Dream is often critiqued for being unattainable for marginalized groups.",
+      "item10": "In American literature, identity is often tied to personal freedom and self-determination.",
+      "item11": "The pursuit of happiness is a central theme in discussions of the American Dream.",
+      "item12": "The American Dream has evolved over time to reflect changing social and economic conditions.",
+      "item13": "The American Dream is sometimes portrayed as a myth that people strive for but can never fully attain.",
+      "item14": "In literature, personal success is often seen as the ultimate achievement of the American Dream.",
+      "item15": "The American Dream can be interpreted differently depending on one's race, class, or background.",
+      "item16": "The concept of self-reliance is key to understanding American identity.",
+      "item17": "American identity has been shaped by the country's history of immigration and assimilation.",
+      "item18": "Writers use conflict to explore the idea of the American Dream in their characters' lives.",
+      "item19": "American writers critique materialism as part of the American Dream.",
+      "item20": "The concept of the American Dream has influenced global perceptions of the United States.",
+      "item21": "The American Dream is often associated with the idea of upward mobility.",
+      "item22": "In literature, the American Dream often leads to disillusionment for many characters.",
+      "item23": "The American Dream represents the hope that anyone can succeed regardless of their background.",
+      "item24": "The role of family and community is often a theme in discussions of American identity.",
+      "item25": "The American Dream is connected to themes of freedom and opportunity.",
+      "item26": "The American Dream has been a source of hope and inspiration for many immigrants to the U.S.",
+      "item27": "American literature often reflects the struggle between individual desires and societal expectations.",
+      "item28": "The American Dream is often portrayed as a journey, not a destination.",
+      "item29": "In literature, the pursuit of wealth is sometimes shown to be incompatible with the pursuit of happiness.",
+      "item30": "The concept of the American Dream challenges the traditional idea of social class and status.",
+      "item31": "The American Dream's appeal lies in the belief that anyone can reinvent themselves.",
+      "item32": "The American Dream has often been critiqued for its focus on material wealth rather than emotional fulfillment.",
+      "item33": "Cultural and ethnic backgrounds can affect an individual's ability to achieve the American Dream.",
+      "item34": "In literature, the American Dream is sometimes depicted as a cycle of hope and disappointment.",
+      "item35": "American identity often emphasizes the importance of independence and self-sufficiency.",
+      "item36": "The American Dream is associated with the idea of a better future for future generations.",
+      "item37": "The American Dream is central to many of the challenges faced by characters in American literature.",
+      "item38": "Authors often depict characters grappling with the gap between reality and the American Dream.",
+      "item39": "The concept of the American Dream is influenced by both personal and societal factors.",
+      "item40": "The pursuit of the American Dream can lead to a sense of alienation or isolation for some individuals."
+    },
+  
+    "answers": {
+      "item1": [
+        "The American Dream represents the idea of individual success and freedom.",
+        "The American Dream focuses on the pursuit of wealth and status.",
+        "The American Dream is about following societal expectations.",
+        "The American Dream emphasizes collective achievement over individualism."
+      ],
+      "item2": [
+        "Individualism is often celebrated as a key part of American identity.",
+        "American identity is defined by community and family values.",
+        "Individualism is downplayed in American identity.",
+        "American identity is shaped by a shared sense of belonging."
+      ],
+      "item3": [
+        "Many American writers critique the concept of the American Dream in their work.",
+        "Most American writers celebrate the success achieved through the American Dream.",
+        "American writers rarely comment on the American Dream.",
+        "The American Dream is rarely critiqued in literature."
+      ],
+      "item4": [
+        "American identity is shaped by diverse experiences, including race, class, and gender.",
+        "American identity is defined only by the national history.",
+        "American identity is shaped by cultural traditions alone.",
+        "American identity is based on economic success."
+      ],
+      "item5": [
+        "The idea of achieving success through hard work and perseverance is central to the American Dream.",
+        "Success through connections is central to the American Dream.",
+        "The American Dream focuses on personal connections rather than hard work.",
+        "The American Dream is centered around material wealth alone."
+      ],
+      "item6": [
+        "Literature often portrays the tension between personal ambition and societal expectations.",
+        "Literature primarily celebrates personal ambition without any societal constraints.",
+        "Societal expectations are not discussed in relation to ambition in literature.",
+        "Personal ambition is downplayed in American literature."
+      ],
+      "item7": [
+        "Authors use symbolism to comment on the American Dream in their works.",
+        "Symbolism is not important in discussions of the American Dream.",
+        "Authors avoid using symbolism when discussing the American Dream.",
+        "Symbolism is used to explore societal issues, not the American Dream."
+      ],
+      "item8": [
+        "Characters in literature sometimes fail to achieve the American Dream, highlighting its flaws.",
+        "Literature never portrays failure in achieving the American Dream.",
+        "Characters always achieve the American Dream in literature.",
+        "Failure is irrelevant to the discussion of the American Dream."
+      ],
+      "item9": [
+        "The American Dream is often critiqued for being unattainable for marginalized groups.",
+        "The American Dream is universally attainable regardless of background.",
+        "Marginalized groups are always able to achieve the American Dream.",
+        "Critiques of the American Dream are rarely found in literature."
+      ],
+      "item10": [
+        "In American literature, identity is often tied to personal freedom and self-determination.",
+        "Identity is more often tied to wealth than freedom in American literature.",
+        "Personal freedom is less important than family in American literature.",
+        "Self-determination is a secondary theme in American literature."
+      ],
+      "item11": [
+        "The pursuit of happiness is a central theme in discussions of the American Dream.",
+        "Wealth is prioritized over happiness in the American Dream.",
+        "Happiness is not important in the concept of the American Dream.",
+        "Happiness and personal fulfillment are secondary to success in the American Dream."
+      ],
+      "item12": [
+        "The American Dream has evolved over time to reflect changing social and economic conditions.",
+        "The American Dream has stayed the same over time.",
+        "The American Dream has become more focused on material wealth.",
+        "The American Dream has not changed with societal changes."
+      ],
+      "item13": [
+        "The American Dream is sometimes portrayed as a myth that people strive for but can never fully attain.",
+        "The American Dream is always attainable without barriers.",
+        "American literature portrays the American Dream as achievable for all.",
+        "The American Dream is portrayed as a universal truth in literature."
+      ],
+      "item14": [
+        "In literature, personal success is often seen as the ultimate achievement of the American Dream.",
+        "Personal success is not important in the American Dream in literature.",
+        "In literature, failure is more important than success.",
+        "Personal success is only one aspect of the American Dream in literature."
+      ],
+      "item15": [
+        "The American Dream can be interpreted differently depending on one's race, class, or background.",
+        "The American Dream is the same for everyone, regardless of background.",
+        "Only individuals from wealthy backgrounds can achieve the American Dream.",
+        "Interpretations of the American Dream are universally identical."
+      ],
+      "item16": [
+        "The concept of self-reliance is key to understanding American identity.",
+        "Self-reliance is not important in American identity.",
+        "American identity relies heavily on collective effort rather than self-reliance.",
+        "The idea of self-reliance is largely irrelevant to American identity."
+      ],
+      "item17": [
+        "American identity has been shaped by the country's history of immigration and assimilation.",
+        "Immigration and assimilation have had little impact on American identity.",
+        "American identity is based solely on native-born citizens.",
+        "The assimilation process has not contributed to American identity."
+      ],
+      "item18": [
+        "Writers use conflict to explore the idea of the American Dream in their characters' lives.",
+        "Conflict is not important in discussions of the American Dream.",
+        "American literature avoids using conflict to explore the American Dream.",
+        "In American literature, the American Dream is achieved without conflict."
+      ],
+      "item19": [
+        "American writers critique materialism as part of the American Dream.",
+        "Materialism is embraced in discussions of the American Dream.",
+        "Materialism is never critiqued in American literature.",
+        "Material wealth is not a theme in American literature."
+      ],
+      "item20": [
+        "The concept of the American Dream has influenced global perceptions of the United States.",
+        "The American Dream is largely irrelevant to global perceptions of the U.S.",
+        "Global views on the U.S. are solely based on its military power.",
+        "The American Dream is a localized concept, not influencing the rest of the world."
+      ],
+      "item21": [
+        "The American Dream is often associated with the idea of upward mobility.",
+        "The American Dream is about achieving fame and power.",
+        "Upward mobility is not part of the American Dream in literature.",
+        "The American Dream is rooted in social stability, not upward mobility."
+      ],
+      "item22": [
+        "In literature, the American Dream often leads to disillusionment for many characters.",
+        "The American Dream always results in happiness in literature.",
+        "Disillusionment is not a theme in literature related to the American Dream.",
+        "Characters in literature always achieve the American Dream."
+      ],
+      "item23": [
+        "The American Dream represents the hope that anyone can succeed regardless of their background.",
+        "The American Dream is about achieving status within a specific class.",
+        "Success in the American Dream is only possible for the wealthy.",
+        "The American Dream is unattainable for most individuals."
+      ],
+      "item24": [
+        "The role of family and community is often a theme in discussions of American identity.",
+        "Family and community are not important to American identity.",
+        "In American literature, family is considered secondary to individual success.",
+        "American identity ignores the importance of community."
+      ],
+      "item25": [
+        "The American Dream is connected to themes of freedom and opportunity.",
+        "The American Dream is only about economic success.",
+        "Freedom and opportunity are secondary to wealth in the American Dream.",
+        "The American Dream focuses solely on freedom and not on opportunity."
+      ],
+      "item26": [
+        "The American Dream has been a source of hope and inspiration for many immigrants to the U.S.",
+        "Immigrants rarely see the American Dream as attainable.",
+        "The American Dream has little impact on the lives of immigrants.",
+        "Immigrants often reject the idea of the American Dream."
+      ],
+      "item27": [
+        "American literature often reflects the struggle between individual desires and societal expectations.",
+        "Societal expectations are rarely discussed in American literature.",
+        "American literature focuses only on individual desires, not societal expectations.",
+        "In American literature, individual desires always align with societal expectations."
+      ],
+      "item28": [
+        "The American Dream is often portrayed as a journey, not a destination.",
+        "The American Dream is portrayed as an easy destination to reach.",
+        "In literature, the American Dream is seen as a clear and simple goal.",
+        "The American Dream is always portrayed as an attainable destination."
+      ],
+      "item29": [
+        "In literature, the pursuit of wealth is sometimes shown to be incompatible with the pursuit of happiness.",
+        "Wealth is always linked to happiness in American literature.",
+        "The pursuit of wealth leads to happiness in all American literature.",
+        "In literature, wealth is considered unimportant to happiness."
+      ],
+      "item30": [
+        "The concept of the American Dream challenges the traditional idea of social class and status.",
+        "The American Dream is only available to those from privileged social classes.",
+        "Social class and status are irrelevant to the American Dream.",
+        "The American Dream reinforces the existing social class structure."
+      ],
+      "item31": [
+        "The American Dream's appeal lies in the belief that anyone can reinvent themselves.",
+        "The American Dream appeals only to the wealthy.",
+        "Reinvention is not part of the American Dream.",
+        "The American Dream is only for those born into wealth."
+      ],
+      "item32": [
+        "The American Dream has often been critiqued for its focus on material wealth rather than emotional fulfillment.",
+        "The American Dream is focused solely on emotional fulfillment.",
+        "Material wealth is seen as secondary to happiness in the American Dream.",
+        "The American Dream emphasizes material wealth over all else."
+      ],
+      "item33": [
+        "Cultural and ethnic backgrounds can affect an individual's ability to achieve the American Dream.",
+        "Cultural background does not impact one's ability to achieve the American Dream.",
+        "The American Dream is only attainable for people from one cultural background.",
+        "Cultural and ethnic backgrounds have no impact on success in the American Dream."
+      ],
+      "item34": [
+        "In literature, the American Dream is sometimes depicted as a cycle of hope and disappointment.",
+        "The American Dream is only portrayed as a path to success.",
+        "Disappointment is not a theme in discussions of the American Dream.",
+        "The American Dream is a one-time achievement in literature."
+      ],
+      "item35": [
+        "American identity often emphasizes the importance of independence and self-sufficiency.",
+        "Independence is less important than community in American identity.",
+        "American identity relies more on cooperation than independence.",
+        "Self-sufficiency is not a key value in American identity."
+      ],
+      "item36": [
+        "The American Dream is associated with the idea of a better future for future generations.",
+        "The American Dream is about focusing on present success only.",
+        "The future of future generations is not considered in the American Dream.",
+        "The American Dream emphasizes personal success above future generations."
+      ],
+      "item37": [
+        "The American Dream is central to many of the challenges faced by characters in American literature.",
+        "The American Dream is irrelevant to the challenges characters face in literature.",
+        "Characters in American literature rarely confront the idea of the American Dream.",
+        "The American Dream is seldom a challenge for characters in literature."
+      ],
+      "item38": [
+        "Authors often depict characters grappling with the gap between reality and the American Dream.",
+        "Reality and the American Dream are always aligned in literature.",
+        "In literature, the gap between reality and the American Dream is ignored.",
+        "The gap between reality and the American Dream is irrelevant in American literature."
+      ],
+      "item39": [
+        "The concept of the American Dream is influenced by both personal and societal factors.",
+        "The American Dream is solely a personal journey.",
+        "Societal factors play no role in shaping the American Dream.",
+        "The American Dream is always determined by personal choices alone."
+      ],
+      "item40": [
+        "The pursuit of the American Dream can lead to a sense of alienation or isolation for some individuals.",
+        "The pursuit of the American Dream always results in fulfillment.",
+        "Alienation is not a theme in discussions of the American Dream.",
+        "The American Dream is seen as universally uniting for all individuals."
+      ]
+    },
+    "questions": {
+    "item1": "What does the American Dream represent?",
+    "item2": "What is often celebrated as a key part of American identity?",
+    "item3": "How do many American writers view the American Dream?",
+    "item4": "What factors shape American identity?",
+    "item5": "What is central to the idea of the American Dream?",
+    "item6": "How is the tension between personal ambition and societal expectations portrayed in literature?",
+    "item7": "How do authors use symbolism in relation to the American Dream?",
+    "item8": "What is highlighted when characters fail to achieve the American Dream?",
+    "item9": "Why is the American Dream often critiqued in literature?",
+    "item10": "What is American identity often tied to in literature?",
+    "item11": "What is a central theme in the discussion of the American Dream?",
+    "item12": "How has the American Dream evolved over time?",
+    "item13": "How is the American Dream portrayed in some literature?",
+    "item14": "What is often seen as the ultimate achievement of the American Dream?",
+    "item15": "How can the American Dream be interpreted differently?",
+    "item16": "What is key to understanding American identity?",
+    "item17": "How has American identity been shaped historically?",
+    "item18": "How do writers use conflict to explore the American Dream?",
+    "item19": "What do American writers critique about the American Dream?",
+    "item20": "How has the concept of the American Dream influenced global perceptions of the U.S.?",
+    "item21": "What is the American Dream often associated with?",
+    "item22": "How does the American Dream often lead to disillusionment in literature?",
+    "item23": "What does the American Dream represent to many individuals?",
+    "item24": "What role is often emphasized in discussions of American identity?",
+    "item25": "What is the American Dream connected to?",
+    "item26": "How has the American Dream served immigrants in the U.S.?",
+    "item27": "What does American literature often reflect in relation to the American Dream?",
+    "item28": "How is the American Dream often portrayed in literature?",
+    "item29": "What does the pursuit of wealth often conflict with in literature?",
+    "item30": "How does the American Dream challenge traditional ideas of social class?",
+    "item31": "What appeals to many individuals about the American Dream?",
+    "item32": "What has the American Dream been critiqued for in terms of material wealth?",
+    "item33": "How can cultural and ethnic backgrounds affect the pursuit of the American Dream?",
+    "item34": "How is the American Dream sometimes depicted in literature?",
+    "item35": "What values are often emphasized in American identity?",
+    "item36": "What is the American Dream associated with regarding future generations?",
+    "item37": "How does the American Dream affect characters in American literature?",
+    "item38": "How do authors depict the gap between reality and the American Dream?",
+    "item39": "What influences the concept of the American Dream?",
+    "item40": "How can the pursuit of the American Dream affect individuals emotionally?"
+  }
+  }
+  

@@ -1,0 +1,330 @@
+{
+    "correctAnswers": {
+      "item1": "A character’s internal struggle with their values.",
+      "item2": "The way a character’s actions impact the story.",
+      "item3": "The change a character undergoes throughout a narrative.",
+      "item4": "The character’s relationship with the environment.",
+      "item5": "A conflict between two characters in a story.",
+      "item6": "The opposition between the protagonist and an antagonist.",
+      "item7": "The character’s growth in response to conflict.",
+      "item8": "A character’s moral dilemma or ethical conflict.",
+      "item9": "A character’s struggle to find their identity.",
+      "item10": "The consequences a character faces due to their decisions.",
+      "item11": "The driving force behind a character’s actions.",
+      "item12": "A character’s role in moving the plot forward.",
+      "item13": "The emotional or psychological challenge a character faces.",
+      "item14": "The impact of a character’s environment on their choices.",
+      "item15": "The importance of relationships in character development.",
+      "item16": "A character’s reflection on past decisions.",
+      "item17": "The physical challenges a character faces.",
+      "item18": "The role of external forces in shaping a character’s behavior.",
+      "item19": "The transformation of a character’s perspective.",
+      "item20": "The influence of other characters on a character’s development.",
+      "item21": "A character’s struggle with societal expectations.",
+      "item22": "The emotional growth a character experiences.",
+      "item23": "The clash between a character’s desires and reality.",
+      "item24": "The internal conflict a character faces about their identity.",
+      "item25": "The resolution of a character’s personal struggles.",
+      "item26": "A character’s struggle with authority or power.",
+      "item27": "The way characters evolve in response to their challenges.",
+      "item28": "The balance between a character’s actions and their consequences.",
+      "item29": "A character’s ability to change after experiencing conflict.",
+      "item30": "The way a character’s flaws are revealed through conflict.",
+      "item31": "The impact of a character’s past on their present actions.",
+      "item32": "The dynamic between different characters in resolving conflict.",
+      "item33": "The significance of a character’s decisions in the plot.",
+      "item34": "The role of minor characters in a character’s development.",
+      "item35": "A character’s struggle to reconcile their beliefs with their actions.",
+      "item36": "The tension between a character’s personal goals and the goals of others.",
+      "item37": "The way characters express their emotions in response to conflict.",
+      "item38": "The ethical challenges a character faces in the story.",
+      "item39": "The way a character’s relationships evolve in response to conflict.",
+      "item40": "The personal and external forces that shape a character’s journey."
+    },
+  
+    "answers": {
+      "item1": [
+        "A character’s internal struggle with their values.",
+        "A fight between two characters.",
+        "The social challenges faced by a character.",
+        "A character’s desire to prove something."
+      ],
+      "item2": [
+        "The way a character’s actions impact the story.",
+        "The dialogue a character uses.",
+        "The places a character visits.",
+        "The character’s physical appearance."
+      ],
+      "item3": [
+        "The change a character undergoes throughout a narrative.",
+        "The character’s physical traits.",
+        "A character’s relationship with another character.",
+        "The setting in which the character exists."
+      ],
+      "item4": [
+        "The character’s relationship with the environment.",
+        "The internal thoughts of the character.",
+        "A character’s desire to change their situation.",
+        "A character’s ability to make choices."
+      ],
+      "item5": [
+        "A conflict between two characters in a story.",
+        "The internal conflict of the protagonist.",
+        "A character’s struggle with nature.",
+        "A character’s desire to achieve a goal."
+      ],
+      "item6": [
+        "The opposition between the protagonist and an antagonist.",
+        "The relationship between a character and their mentor.",
+        "The conflict of a character’s dreams and reality.",
+        "The personal beliefs of a character."
+      ],
+      "item7": [
+        "The character’s growth in response to conflict.",
+        "The character’s physical appearance.",
+        "The way a character communicates with others.",
+        "The character’s external conflicts with the world."
+      ],
+      "item8": [
+        "A character’s moral dilemma or ethical conflict.",
+        "A character’s struggle for independence.",
+        "The way a character defies authority.",
+        "A character’s understanding of love."
+      ],
+      "item9": [
+        "A character’s struggle to find their identity.",
+        "A character’s desire for revenge.",
+        "The choices a character makes out of fear.",
+        "A character’s relationship with family."
+      ],
+      "item10": [
+        "The consequences a character faces due to their decisions.",
+        "The friendships a character forms.",
+        "The job a character pursues.",
+        "The setting of the character’s conflict."
+      ],
+      "item11": [
+        "The driving force behind a character’s actions.",
+        "A character’s desire for personal gain.",
+        "The beliefs that guide a character’s decisions.",
+        "The obstacles a character encounters."
+      ],
+      "item12": [
+        "A character’s role in moving the plot forward.",
+        "The physical characteristics of the character.",
+        "A character’s journey to personal growth.",
+        "The relationships a character forms with others."
+      ],
+      "item13": [
+        "The emotional or psychological challenge a character faces.",
+        "The action the character takes in a story.",
+        "The character’s physical journey.",
+        "The tension between characters."
+      ],
+      "item14": [
+        "The impact of a character’s environment on their choices.",
+        "The decisions a character makes on their own.",
+        "A character’s internal dialogue.",
+        "The conflict a character experiences with other characters."
+      ],
+      "item15": [
+        "The importance of relationships in character development.",
+        "The geographical locations a character travels to.",
+        "A character’s ability to maintain their relationships.",
+        "The physical characteristics of a character."
+      ],
+      "item16": [
+        "A character’s reflection on past decisions.",
+        "The immediate consequences of a character’s actions.",
+        "The external challenges faced by the character.",
+        "A character’s feelings of regret."
+      ],
+      "item17": [
+        "The physical challenges a character faces.",
+        "A character’s personal struggle with their values.",
+        "The psychological conflict within a character.",
+        "A character’s relationship with another individual."
+      ],
+      "item18": [
+        "The role of external forces in shaping a character’s behavior.",
+        "A character’s internal struggles with desire.",
+        "The way a character reacts to societal expectations.",
+        "The friendship a character forms."
+      ],
+      "item19": [
+        "The transformation of a character’s perspective.",
+        "The realization of a character’s flaws.",
+        "The internal struggle to maintain peace.",
+        "A character’s changing relationships."
+      ],
+      "item20": [
+        "The influence of other characters on a character’s development.",
+        "The physical appearance of other characters.",
+        "The role of conflict in character development.",
+        "The moral values a character holds."
+      ],
+      "item21": [
+        "A character’s struggle with societal expectations.",
+        "The emotional growth of a character over time.",
+        "The physical toll of a character’s journey.",
+        "A character’s defiance of tradition."
+      ],
+      "item22": [
+        "The emotional growth a character experiences.",
+        "The loss a character faces in the story.",
+        "A character’s desire for self-improvement.",
+        "The isolation a character endures."
+      ],
+      "item23": [
+        "The clash between a character’s desires and reality.",
+        "The opposition between two characters in a story.",
+        "The physical struggles of a character.",
+        "A character’s reflections on their past."
+      ],
+      "item24": [
+        "The internal conflict a character faces about their identity.",
+        "The emotional tension between characters.",
+        "The decisions a character makes about their future.",
+        "A character’s struggle to understand love."
+      ],
+      "item25": [
+        "The resolution of a character’s personal struggles.",
+        "The influence of minor characters on the protagonist.",
+        "The decision a character must make for the greater good.",
+        "The personal sacrifice a character makes."
+      ],
+      "item26": [
+        "A character’s struggle with authority or power.",
+        "The exploration of a character’s personal life.",
+        "A character’s resistance to change.",
+        "A character’s fight for personal freedom."
+      ],
+      "item27": [
+        "The way characters evolve in response to their challenges.",
+        "A character’s outward appearance.",
+        "The way a character helps other characters grow.",
+        "A character’s reaction to personal loss."
+      ],
+      "item28": [
+        "The balance between a character’s actions and their consequences.",
+        "A character’s internal conflict with desires.",
+        "The impact of external forces on a character’s life.",
+        "The relationships a character forms with others."
+      ],
+      "item29": [
+        "A character’s ability to change after experiencing conflict.",
+        "The personal growth of the antagonist.",
+        "The impact of conflict on a character’s mindset.",
+        "A character’s struggle for control."
+      ],
+      "item30": [
+        "The way a character’s flaws are revealed through conflict.",
+        "The moral dilemmas a character faces.",
+        "A character’s external conflicts with others.",
+        "The ways a character expresses their goals."
+      ],
+      "item31": [
+        "The impact of a character’s past on their present actions.",
+        "The future path a character will follow.",
+        "A character’s internal moral conflict.",
+        "The influence of secondary characters on the protagonist."
+      ],
+      "item32": [
+        "The dynamic between different characters in resolving conflict.",
+        "The way characters communicate their feelings.",
+        "The nature of a character’s primary relationships.",
+        "The tension a character faces from external sources."
+      ],
+      "item33": [
+        "The significance of a character’s decisions in the plot.",
+        "The way a character evolves over time.",
+        "A character’s understanding of their role in society.",
+        "The decisions a character makes without considering others."
+      ],
+      "item34": [
+        "The role of minor characters in a character’s development.",
+        "The relationship between the protagonist and the antagonist.",
+        "The external forces acting upon a character.",
+        "The past events that shaped a character’s actions."
+      ],
+      "item35": [
+        "A character’s struggle to reconcile their beliefs with their actions.",
+        "The conflict between personal desires and external demands.",
+        "A character’s failure to change despite conflict.",
+        "The personal growth of secondary characters."
+      ],
+      "item36": [
+        "The tension between a character’s personal goals and the goals of others.",
+        "The emotional growth a character undergoes.",
+        "A character’s understanding of success and failure.",
+        "The changing dynamics of a character’s environment."
+      ],
+      "item37": [
+        "The way characters express their emotions in response to conflict.",
+        "A character’s struggle with social pressures.",
+        "The deep psychological impact of failure on a character.",
+        "The resolution of a character’s inner turmoil."
+      ],
+      "item38": [
+        "The ethical challenges a character faces in the story.",
+        "The decision a character makes about the greater good.",
+        "The physical challenges that define the protagonist’s path.",
+        "The emotional battle a character fights within themselves."
+      ],
+      "item39": [
+        "The way a character’s relationships evolve in response to conflict.",
+        "The friendships a character forms along their journey.",
+        "A character’s struggle to overcome societal expectations.",
+        "The conflict a character faces with another person."
+      ],
+      "item40": [
+        "The personal and external forces that shape a character’s journey.",
+        "The decision a character makes that defines their future.",
+        "The impact of love and loss on a character’s development.",
+        "The emotional cost of a character’s growth."
+      ]
+    },
+    "questions": {
+    "item1": "What is internal conflict in character development?",
+    "item2": "How does a character's actions drive the plot?",
+    "item3": "What does a character's change over the course of the story represent?",
+    "item4": "How does the environment impact a character’s development?",
+    "item5": "What is a character conflict between two characters called?",
+    "item6": "How does the protagonist's conflict with the antagonist drive the story?",
+    "item7": "How does a character grow through conflict?",
+    "item8": "What is a moral dilemma faced by a character?",
+    "item9": "What does a character's struggle for identity mean in a story?",
+    "item10": "How do a character’s choices affect the story?",
+    "item11": "What motivates a character’s decisions in a narrative?",
+    "item12": "How does a character's role contribute to the plot?",
+    "item13": "What emotional or psychological challenges does a character face?",
+    "item14": "How does a character's environment influence their choices?",
+    "item15": "Why are relationships important in a character’s development?",
+    "item16": "What role does reflection on past decisions play in character development?",
+    "item17": "How do physical challenges affect a character's journey?",
+    "item18": "What role do external forces play in shaping a character’s behavior?",
+    "item19": "How does a character’s perspective transform during the story?",
+    "item20": "How do other characters influence a character’s development?",
+    "item21": "What is a character’s struggle with societal expectations?",
+    "item22": "How does emotional growth impact a character’s development?",
+    "item23": "What conflict arises when a character’s desires clash with reality?",
+    "item24": "What internal conflict arises when a character faces identity issues?",
+    "item25": "What does the resolution of a character’s struggles show about their growth?",
+    "item26": "How does a character’s struggle with authority shape the story?",
+    "item27": "How does a character evolve as they face challenges?",
+    "item28": "How do the consequences of a character’s actions affect the plot?",
+    "item29": "What is a character’s ability to change after conflict?",
+    "item30": "How are a character’s flaws revealed through conflict?",
+    "item31": "How does a character’s past influence their present actions?",
+    "item32": "How do different characters interact to resolve conflicts?",
+    "item33": "Why are a character’s decisions significant to the plot?",
+    "item34": "What is the role of minor characters in a character’s development?",
+    "item35": "How do a character’s beliefs conflict with their actions?",
+    "item36": "What is the tension between a character’s personal goals and others’ goals?",
+    "item37": "How does a character express emotions in response to conflict?",
+    "item38": "What ethical challenges does a character face in the story?",
+    "item39": "How do a character’s relationships evolve through conflict?",
+    "item40": "What personal and external forces shape a character’s journey?"
+  }
+  }
+  
