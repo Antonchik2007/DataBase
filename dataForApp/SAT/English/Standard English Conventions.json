@@ -1,0 +1,327 @@
+{
+    "questions": {
+      "item1": "Which of the following sentences is correctly punctuated?",
+      "item2": "Choose the sentence that uses correct subject-verb agreement.",
+      "item3": "Which sentence correctly uses a semicolon?",
+      "item4": "Choose the sentence that properly uses commas in a compound sentence.",
+      "item5": "Which of the following sentences uses parallel structure correctly?",
+      "item6": "Choose the sentence with correct pronoun usage.",
+      "item7": "Which sentence uses the apostrophe correctly?",
+      "item8": "Select the correctly punctuated sentence with quotation marks.",
+      "item9": "Which sentence is free from errors in adjective use?",
+      "item10": "Choose the sentence with correct word choice in context.",
+      "item11": "Which of the following sentences correctly uses a colon?",
+      "item12": "Choose the sentence that avoids a comma splice.",
+      "item13": "Which sentence has no punctuation errors?",
+      "item14": "Which of the following uses correct capitalization?",
+      "item15": "Choose the sentence with proper subject-verb agreement.",
+      "item16": "Which sentence correctly uses an ellipsis?",
+      "item17": "Choose the sentence with correct use of hyphens.",
+      "item18": "Which of the following is correctly punctuated with dashes?",
+      "item19": "Select the sentence that correctly uses an apostrophe for possession.",
+      "item20": "Which sentence uses commas correctly with nonessential clauses?",
+      "item21": "Choose the sentence that correctly uses parentheses.",
+      "item22": "Which sentence is correctly punctuated with a semicolon and a conjunction?",
+      "item23": "Choose the sentence with no sentence fragment.",
+      "item24": "Which sentence uses a colon correctly to introduce a list?",
+      "item25": "Choose the sentence with correct punctuation in a compound-complex sentence.",
+      "item26": "Which sentence is correctly punctuated with commas in a series?",
+      "item27": "Which of the following sentences is free from double negatives?",
+      "item28": "Which sentence contains no misplaced modifiers?",
+      "item29": "Choose the sentence that correctly uses an adverb.",
+      "item30": "Which of the following sentences uses correct possessive forms?",
+      "item31": "Which sentence properly uses quotation marks with direct speech?",
+    "item32": "Choose the sentence that avoids redundancy.",
+    "item33": "Which of the following correctly uses commas with introductory phrases?",
+    "item34": "Which sentence uses correct verb tense?",
+    "item35": "Which sentence contains no errors in subject-verb agreement?",
+    "item36": "Choose the sentence that avoids a run-on sentence.",
+    "item37": "Which sentence has correct punctuation for coordinating conjunctions?",
+    "item38": "Select the sentence that uses commas correctly in appositive phrases.",
+    "item39": "Which sentence correctly uses a comma after an introductory element?",
+    "item40": "Choose the sentence that correctly uses quotation marks for titles."
+    },
+    "answers": {
+      "item1": [
+        "Although he had been studying for hours, he still couldn't remember the formula for the test, which frustrated him immensely.",
+        "Although he had been studying for hours he still couldn't remember the formula for the test, which frustrated him immensely.",
+        "Although he had been studying for hours he still couldn't remember the formula, for the test which frustrated him immensely.",
+        "Although he had been studying for hours he still couldn't remember the formula for the test which frustrated him immensely."
+      ],
+      "item2": [
+        "The committee were pleased with the results of the investigation.",
+        "The committee are pleased with the results of the investigation.",
+        "The committee was pleased with the results of the investigation.",
+        "The committee were pleased with their findings during the investigation."
+      ],
+      "item3": [
+        "The conference was incredibly informative, and the speakers were captivating, however, I could hardly stay awake.",
+        "The conference was incredibly informative; the speakers were captivating, however, I could hardly stay awake.",
+        "The conference was incredibly informative, the speakers were captivating, however, I could hardly stay awake.",
+        "The conference was incredibly informative, and the speakers were captivating but I could hardly stay awake."
+      ],
+      "item4": [
+        "The team worked late into the night, but the project was still not finished.",
+        "The team worked late into the night but, the project was still not finished."
+      ],
+      "item5": [
+        "She likes to read, write, and swimming.",
+        "She likes to read, write, and swim.",
+        "She like to read, write, and swimming.",
+        "She likes to reading, writing, and swimming."
+      ],
+      "item6": [
+        "Him went to the store.",
+        "He went to the store.",
+        "He gone to the store.",
+        "Him go to the store."
+      ],
+      "item7": [
+        "The books cover was torn.",
+        "The book's cover was torn.",
+        "The books' cover was torn.",
+        "The books cover were torn."
+      ],
+      "item8": [
+        "She asked, 'Can you help me?'",
+        "She asked can you help me?",
+        "She asked 'Can you help me'.",
+        "She ask, 'Can you help me?'"
+      ],
+      "item9": [
+        "I don't like very much these cookies.",
+        "I don't like these cookies very much.",
+        "I don't very much like these cookies.",
+        "I very much don't like these cookies."
+      ],
+      "item10": [
+        "The student ran quickly to the class.",
+        "The student quickly ran to the class.",
+        "The quickly student ran to the class.",
+        "The student ran quick to the class."
+      ],
+      "item11": [
+        "I have three favorite hobbies: reading, writing, and drawing.",
+        "I have three favorite hobbies: reading, writing and drawing.",
+        "I have: three favorite hobbies reading, writing, and drawing.",
+        "I have three: favorite hobbies reading, writing, and drawing."
+      ],
+      "item12": [
+        "We will go to the store, we need groceries.",
+        "We will go to the store and we need groceries.",
+        "We will go to the store; we need groceries.",
+        "We will go to the store we need groceries."
+      ],
+      "item13": [
+        "She ran quickly to the store to buy bread.",
+        "She ran quickly to the store, to buy bread.",
+        "She, ran quickly to the store, to buy bread.",
+        "She quickly ran to store, to buy bread."
+      ],
+      "item14": [
+        "The Declaration of Independence was signed in 1776.",
+        "The declaration of independence was signed in 1776.",
+        "The Declaration of independence was signed in 1776.",
+        "The Declaration of Independence was signed in 1776."
+      ],
+      "item15": [
+        "The children plays in the yard every day.",
+        "The children play in the yard every day.",
+        "The children playing in the yard every day.",
+        "The children play in yard every day."
+      ],
+      "item16": [
+        "I wonder... if I can make it on time.",
+        "I wonder if I can make it... on time.",
+        "I wonder... if I can make it on time...",
+        "I wonder if... I can make it on time."
+      ],
+      "item17": [
+        "She is a well-known artist.",
+        "She is a well-know artist.",
+        "She is a well-known artist.",
+        "She is a well know artist."
+      ],
+      "item18": [
+        "The decision was final—the manager had the last say.",
+        "The decision was final the manager had the last say.",
+        "The decision was final—the manager had, the last say.",
+        "The decision was final the manager had— the last say."
+      ],
+      "item19": [
+        "The car's engine was faulty.",
+        "The cars engine was faulty.",
+        "The cars' engine was faulty.",
+        "The car engine was faulty."
+      ],
+      "item20": [
+        "The teacher, who was kind, gave us an extension.",
+        "The teacher who was kind, gave us an extension.",
+        "The teacher, who was kind gave us an extension.",
+        "The teacher who was kind gave us an extension."
+      ],
+      "item21": [
+        "The conference, which was held in the auditorium, was a success.",
+        "The conference which was held in the auditorium, was a success.",
+        "The conference, which was held in the auditorium was a success.",
+        "The conference which was held in the auditorium was a success."
+      ],
+      "item22": [
+        "I went to the store, and I bought some bread.",
+        "I went to the store; and I bought some bread.",
+        "I went to the store, but I bought some bread.",
+        "I went to the store; but I bought some bread."
+      ],
+      "item23": [
+        "I enjoy reading books.",
+        "Enjoy reading books.",
+        "I enjoy, reading books.",
+        "I enjoys reading books."
+      ],
+      "item24": [
+        "Here are the ingredients: flour, sugar, and eggs.",
+        "Here are the ingredients flour, sugar, and eggs.",
+        "Here are: the ingredients, flour, sugar, and eggs.",
+        "Here are the ingredients, flour, sugar and eggs."
+      ],
+      "item25": [
+        "She enjoys reading, but she also likes hiking and swimming.",
+        "She enjoys reading but she also likes hiking, and swimming.",
+        "She enjoys reading but she also likes hiking and swimming.",
+        "She enjoys reading, but she also likes hiking and swimming."
+      ],
+      "item26": [
+        "I need to buy apples, oranges, bananas, and grapes.",
+        "I need to buy apples oranges bananas and grapes.",
+        "I need to buy apples, oranges, and bananas and grapes.",
+        "I need to buy: apples, oranges, bananas, and grapes."
+      ],
+      "item27": [
+        "He doesn’t need no help.",
+        "He doesn’t need any help.",
+        "He don’t need no help.",
+        "He needs no help."
+      ],
+      "item28": [
+        "He gave a thoughtful response to the question.",
+        "He response thoughtfully gave the question.",
+        "He gave thoughtfully response to the question.",
+        "He gave response thoughtfully to the question."
+      ],
+      "item29": [
+        "She sings better than I.",
+        "She sings better than me.",
+        "She sings better then I.",
+        "She sings better than I do."
+      ],
+      "item30": [
+        "The boy's book was on the table.",
+        "The boys book was on the table.",
+        "The boys' book was on the table.",
+        "The boy book was on the table."
+      ],
+      "item31": [
+        "She said, 'I will be home by 5.'",
+        "She said 'I will be home by 5'.",
+        "She said, I will be home by 5.",
+        "She said I will be home, 'by 5'."
+      ],
+      "item32": [
+        "He bought a new car and new shoes.",
+        "He bought a new car and shoes.",
+        "He bought new shoes and new car.",
+        "He bought new car and shoes."
+      ],
+      "item33": [
+        "After the meeting, we went for lunch.",
+        "After meeting we went for lunch.",
+        "After the meeting we went for lunch.",
+        "We went for lunch after the meeting."
+      ],
+      "item34": [
+        "I will call her tomorrow.",
+        "I call her tomorrow.",
+        "I called her tomorrow.",
+        "I will called her tomorrow."
+      ],
+      "item35": [
+        "The team is practicing every day.",
+        "The team are practicing every day.",
+        "The team practice every day.",
+        "The team practicing every day."
+      ],
+      "item36": [
+        "He was walking down the street, and he found a wallet.",
+        "He was walking down the street he found a wallet.",
+        "He walking down the street, and found a wallet.",
+        "He walked down the street he found a wallet."
+      ],
+      "item37": [
+        "I wanted to go to the park, but it started raining.",
+        "I wanted to go to the park but it started raining.",
+        "I wanted to go to the park and it started raining.",
+        "I wanted to go to the park, and it started raining."
+      ],
+      "item38": [
+        "My friend, the one with the blue shirt, is very kind.",
+        "My friend the one with the blue shirt is very kind.",
+        "My friend the one, with the blue shirt is very kind.",
+        "My friend, the one with the blue shirt, is kind."
+      ],
+      "item39": [
+        "In the morning, we had breakfast together.",
+        "We had breakfast together in the morning.",
+        "We in the morning had breakfast together.",
+        "In morning, we had breakfast together."
+      ],
+      "item40": [
+        "I just finished reading 'The Great Gatsby'.",
+        "I just finished reading The Great Gatsby.",
+        "'The Great Gatsby' I just finished reading.",
+        "'The Great Gatsby' I just reading finished."
+      ]
+    },
+    "correctAnswers": {
+      "item1": "Although he had been studying for hours, he still couldn't remember the formula for the test, which frustrated him immensely.",
+      "item2": "The committee was pleased with the results of the investigation.",
+      "item3": "The conference was incredibly informative; the speakers were captivating, however, I could hardly stay awake.",
+      "item4": "The team worked late into the night, but the project was still not finished.",
+      "item5": "She likes to read, write, and swim.",
+      "item6": "He went to the store.",
+      "item7": "The book's cover was torn.",
+      "item8": "She asked, 'Can you help me?'",
+      "item9": "I don't like these cookies very much.",
+      "item10": "The student quickly ran to the class.",
+      "item11": "I have three favorite hobbies: reading, writing, and drawing.",
+      "item12": "We will go to the store; we need groceries.",
+      "item13": "She ran quickly to the store to buy bread.",
+      "item14": "The Declaration of Independence was signed in 1776.",
+      "item15": "The children play in the yard every day.",
+      "item16": "I wonder... if I can make it on time.",
+      "item17": "She is a well-known artist.",
+      "item18": "The decision was final—the manager had the last say.",
+      "item19": "The car's engine was faulty.",
+      "item20": "The teacher, who was kind, gave us an extension.",
+      "item21": "The conference, which was held in the auditorium, was a success.",
+      "item22": "I went to the store; but I bought some bread.",
+      "item23": "I enjoy reading books.",
+      "item24": "Here are the ingredients: flour, sugar, and eggs.",
+      "item25": "She enjoys reading, but she also likes hiking and swimming.",
+      "item26": "I need to buy apples, oranges, bananas, and grapes.",
+      "item27": "He doesn’t need any help.",
+      "item28": "He gave a thoughtful response to the question.",
+      "item29": "She sings better than I.",
+      "item30": "The boy's book was on the table.",
+      "item31": "She said, 'I will be home by 5.'",
+    "item32": "He bought a new car and shoes.",
+    "item33": "After the meeting, we went for lunch.",
+    "item34": "I will call her tomorrow.",
+    "item35": "The team is practicing every day.",
+    "item36": "He was walking down the street, and he found a wallet.",
+    "item37": "I wanted to go to the park, but it started raining.",
+    "item38": "My friend, the one with the blue shirt, is very kind.",
+    "item39": "In the morning, we had breakfast together.",
+    "item40": "I just finished reading 'The Great Gatsby'."
+    }
+  }
+  
